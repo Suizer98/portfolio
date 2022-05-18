@@ -117,11 +117,11 @@
 								<h2>The reason of this study<br />
 										</h2>
 							</header>
-							<p>Insufficient electric infrastructure is said to have contributed to the slow development of Electric Vehicle, the first mass-produced 
-								and purpose-designed electric car of the modern age. A good deployment of EVCSs is thus one of the most important solutions for more 
+							<p>Insufficient electric infrastructure is said to have contributed to the slow development of Electric vehicle.
+								A good deployment of EVCSs is thus one of the most important solutions for more 
 								efficient and widespread use of electric cars.</p>
 							<p>As the rapid growth of new and creative modes of passenger transportation, the researcher pay more attention on the location intelligence, 
-								that can be managed by using geographic information systems, that is more crucial than ever</p>
+								that can be managed by using geographic information systems, that is more crucial than ever.</p>
 							<p>The overall goal of the research is to make it easier to make decisions about how to expand, 
 								deploy, and improve EVCS infrastructure.</p>
 						</div>
@@ -148,10 +148,10 @@
 									<h2>The time period and<br />
 										the data involved	</h2>
 								</header>
-								<p>This research is published on year 2022. The data is updated to the latest acquired from the website
-									<a href= "http://polni.si/" target="_blank">http://polni.si/</a> which contain every EVs charging stations in Slovenia.
+								<p>This research is published on year 2022. The data is updated to the latest acquired from the website.
 								</p>
-								<p>For the data involved, as mentioned above, all data was further created in the shapefile format as digital vector layers.
+								<p>For the data involved, as mentioned above are obtained from Navteq and 
+									<a href= "http://polni.si/" target="_blank">http://polni.si/</a> which contain every EVs charging stations in Slovenia.
 									The data contained geolocation data of electric vehicle charging stations to be imported into Arcgis software. </p>
 								<p>To further support the dataset, the researchers performed a online qualitative survey to complete the coverage of EV stations
 									with 22 questions. The number of respondents was 25, with all of them owners of electric cars.
@@ -186,7 +186,9 @@
 									it involved all area in Slovenia country. So, the area covered is 20,271 square kilometres equivalent to
 								the domain of SLovenia. The latitude and longitude of the capital of Slovenia, which is called Ljubljana
 								 located around 46° 03'North and 14° 31' East.</p>
-								<p>oooo</p>
+								<p>For software used, researchers stated that all GIS analysis were performed in ArcGIS Desktop with version 
+									10.8.1 and ArcGIS Pro 2.4, from ESRI company.
+								</p>
 								<p>  </p>
 							</div>
 						</div>
@@ -212,9 +214,21 @@
 											<h2>Description of the analytical methodology<br />
 													</h2>
 										</header>
-										<p>The reason</p>
-										<p>oooo</p>
-										<p>kkkkk</p>
+										<p>Basically, the data collected are the geolocation of 308 public EVCSs in Slovenia with 637 
+											charging ports for electric vehicles are taken count into the methodologies. The data were
+											imported in ArcGIS to be output as different type of figures representing different analyses.
+										</p>
+										<p>To make sure the researches were in analytical ways and not just theories, the researchers used Pearson's correlation coefficient 
+										 to see if there was a link between EVCSs and specific features of municipalities. They then used polynomial regression 
+										 to dig deeper into the relationship between population size and EVCSs.</p>
+										<p>Secondly, researchers calculated the density properties of EVCSs in Slovenia. Then, they generated a continuous density surface based on a 
+											basic kernel density estimation. They also determined the geographic distribution of EVCSs by computing the mean centre, 
+											central feature, and standard deviational ellipse.</p>
+										<p>Lastly, the researchers wanted to prove relationship between electric vehicles and highways in greater depth. They created a street transportation network 
+											and analysed the proximity of EVCSs along highways because straight-line distance measurement can be inherent when dealing with networks.
+											The Origin-Destination Cost Matrix analysis algorithm is based on Dijkstra's shortest path tree technique.
+
+										</p>
 									</div>
 								</div>
 							</div>
@@ -239,9 +253,14 @@
 							<h2>What was done during the study<br />
 									</h2>
 						</header>
-						<p>The reason</p>
-						<p>oooo</p>
-						<p>kkkkk</p>
+						<p>The data was prepared in shapefile so it can be integrated in digital vector layers.</p>
+						<p>Two types of GIS models are related in this study. It was first begin with discrete models, 
+							in which discrete entities such as EVCSs populate space. Followed by the network model that is 
+							used to describe topologically connected linear entities that influence EVCSs, such as highways and roads. 
+							
+							</p>
+						<p>The researchers paid a lot of attention on spatial analytic methodologies and GIS tools mainly in the GIS analysis 
+							of Slovenia's coverage with EVCSs. They used spatial analysis to carry out problem-solving aspect of GIS. </p>
 					</div>
 				</div>
 			</div>
@@ -268,9 +287,21 @@
 								<h2>Results of the research<br />
 										</h2>
 							</header>
-							<p>The reason</p>
-							<p>oooo</p>
-							<p>kkkkk</p>
+							<p>For the results, we can refer to Figure 1 below. It depicts the uneven spatial distribution of 308 public EVCSs in Slovenia. 
+								Higher quantities can be found around major cities like Ljubljana, Maribor, Kranj, Koper, and others. 
+								More concentration of EVCSs amount can be found on roads with higher categories (1 and 2), although they can also be 
+								found on roads with lower categories (3 and 4).</p>
+							<p>For figure 2, Slovenia is made up of 212 municipalities with 11 of them are urban. Many EVCSs, 68 out of 308, are concentrated in 
+								the City Municipality of Ljubljana, which is centred around Ljubljana, Slovenia's largest and capital city. 
+								The City Municipality of Maribor, in Slovenia's north-eastern region, has the second-highest number of EVCSs, with 24. Maribor, 
+								Slovenia's second-largest city, serves as the capital. Then there are 14 municipalities with 5-7 EVCSs, 35 municipalities with 2-4 EVCSs, 
+								49 municipalities with one EVCS, and 113 municipalities with none. </p>
+							<p>For Table 1 showing discrete models and figure 2 as the visualisation, they successfully identified a strong positive association with the population number variable, which was 0.95. 
+								They used polynomial regression, which is a non-linear relationship between the independent and dependent variables, to dig deeper 
+								into this association. The remarkable city and municipalities of Ljubljana and Maribor have the highest number of both population and EVCSs, confirming 
+								a strong link between both variables with a R Square of 0.93.
+
+							</p>
 						</div>
 					</div>
 				</div>
@@ -285,27 +316,53 @@
 					<p>Attached map and figures from the research</p>
 					<div class="row gtr-150">
 						<div class="col-4 col-12-medium">
-							<span class="image fit"><img src="images/pic02.jpg" alt="" /></span>
+							<span class="image fit"><img src="images/map1.PNG" alt="" /></span>
 							<h3>Figure 1</h3>
-							<p>This is.....</p>
+							<p>Public EVCSs on the map of Slovenia</p>
 							<ul class="actions special">
-								<li><a href="#" class="button">More</a></li>
+								<li><a href="images/map1.PNG" width=800 height=600 class="button" target="_blank"  class="button">Enlarge</a></li>
 							</ul>
 						</div>
 						<div class="col-4 col-12-medium">
-							<span class="image fit"><img src="images/pic03.jpg" alt="" /></span>
+							<span class="image fit"><img src="images/table1.PNG" alt="" /></span>
+							<h3>Table 1</h3>
+							<p>Pearson's correlation coefficients between number of EVCSs and
+								certain characteristics of municipalities</p>
+							<ul class="actions special">
+								<li><a href="images/table1.PNG" width=800 height=600 class="button" target="_blank"  class="button">Enlarge</a></li>
+							</ul>
+						</div>
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="images/model1.PNG" alt="" /></span>
 							<h3>Figure 2</h3>
-							<p>This is.....</p>
+							<p>Polynomial regression model of 2nd degree between population and
+								number of EVCSs</p>
 							<ul class="actions special">
-								<li><a href="#" class="button">More</a></li>
+								<li><a href="images/model1.PNG" width=800 height=600 class="button" target="_blank"  class="button">Enlarge</a></li>
 							</ul>
 						</div>
 						<div class="col-4 col-12-medium">
-							<span class="image fit"><img src="images/pic04.jpg" alt="" /></span>
+							<span class="image fit"><img src="images/map2.PNG" alt="" /></span>
 							<h3>Figure 3</h3>
-							<p>This is.....</p>
+							<p>Number of EVCSs per municipality</p>
 							<ul class="actions special">
-								<li><a href="#" class="button">More</a></li>
+								<li><a href="images/map2.PNG" width=800 height=600 class="button" target="_blank"  class="button">Enlarge</a></li>
+							</ul>
+						</div>
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="images/map3.PNG" alt="" /></span>
+							<h3>Figure 4</h3>
+							<p>Kernel Density of EVCSs</p>
+							<ul class="actions special">
+								<li><a href="images/map3.PNG" width=800 height=600 class="button" target="_blank"  class="button">Enlarge</a></li>
+							</ul>
+						</div>
+						<div class="col-4 col-12-medium">
+							<span class="image fit"><img src="images/map4.PNG" alt="" /></span>
+							<h3>Figure 5</h3>
+							<p>Nearness of EVCSs to the closest motorway</p>
+							<ul class="actions special">
+								<li><a href="images/map4.PNG" width=800 height=600 class="button" target="_blank" >Enlarge</a></li>
 							</ul>
 						</div>
 					</div>
