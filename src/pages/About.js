@@ -30,17 +30,14 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed id eros
-            non nisi vulputate eleifend. Vestibulum erat ipsum, lacinia ut nibh
-            ut, pulvinar interdum lorem. Aliquam et nisi eu risus ultrices
-            suscipit nec nec quam. Suspendisse pretium fermentum luctus.
-            Maecenas vitae vestibulum ipsum, ut varius diam. Phasellus mattis
-            nunc vel purus maximus, sit amet congue ligula tincidunt. Nulla
-            tristique luctus lacinia. Nullam ut tortor arcu.
+          I am Tey Sui Zer, a passionate GISer currently active in National University of Singapore (NUS). 
+          Coming from a geoinformation background, I deal with spatial problems, engaged in various working environments 
+          and built up specialised skills. I am capable in handling GIS webpages and researches questions that are related 
+          to geomatics engineering.
           </code>
           <br />
           <br />
-          <code>Aenean in mi non leo placerat suscipit a eget odio:</code>
+          <code>Tech stacks that used by me:</code>
           <div className="grid grid-cols-3 gap-2 text-sm mt-5 text-brown_vs">
             <div className="flex flex-row  mb-3">
               <img
@@ -49,14 +46,6 @@ const About = () => {
                 className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
               />
               <code>JavaScript (ES6+)</code>
-            </div>
-            <div className="flex flex-row mb-3">
-              <img
-                src={NextLogo}
-                alt="Next Logo"
-                className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
-              />
-              <code>Next.js</code>
             </div>
             <div className="flex flex-row mb-3">
               <img
@@ -82,14 +71,6 @@ const About = () => {
               />
               <code>Tailwind CSS</code>
             </div>
-            <div className="flex flex-row mb-3">
-              <img
-                src={ReduxLogo}
-                alt="Redux Logo"
-                className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
-              />
-              <code>Redux</code>
-            </div>
             <div className="flex flex-row  mb-3">
               <img
                 src={PythonLogo}
@@ -97,14 +78,6 @@ const About = () => {
                 className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
               />
               <code>Python</code>
-            </div>
-            <div className="flex flex-row mb-3">
-              <img
-                src={FirebaseLogo}
-                alt="Firebase Logo"
-                className="h-5 w-5 ml-3 mr-4 text-yellow_vs"
-              />
-              <code>Firebase</code>
             </div>
             <div className="flex flex-row mb-3">
               <img
