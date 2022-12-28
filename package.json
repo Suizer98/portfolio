@@ -1,5 +1,5 @@
 {
-  "name": "kizou",
+  "name": "Suizer",
   "version": "0.1.0",
   "homepage": "https://suizer98.github.io/portfolio/",
   "private": true,
@@ -24,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
