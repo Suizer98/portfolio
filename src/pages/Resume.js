@@ -22,14 +22,14 @@ const Resume = () => {
             <code className="text-yellow_vs">Education</code>
           </div>
           <div className="w-3/4">
-            <code className="text-blue_vs">Lorem Ipsum</code>
+            <code className="text-blue_vs">Universiti Teknologi Malaysia</code>
             <br />
             <code className="italic text-sm text-lightblue_vs">
-              Masters in Information technology
+              Bachelor Degree in Geomatics Engineering
             </code>
             <br />
             <code className="text-xs text-brown_vs">
-              • Sept 2014 - July 2017
+              • Sept 2018 - July 2022
             </code>
           </div>
         </div>
@@ -38,22 +38,58 @@ const Resume = () => {
             <code className="text-yellow_vs">Work</code>
           </div>
           <div className="w-3/4">
-            <code className="text-blue_vs">Lorem Ipsum</code>
+            <code className="text-blue_vs">National University of Singapore (NUS)</code>
             <br />
             <code className="italic text-sm text-lightblue_vs">
-              Lorem - Paris, France{" "}
+              Kent Ridge, Singapore
             </code>
             <br />
-            <code className="text-xs text-brown_vs">• July 2017 - Present</code>
+            <code>Software Engineer</code>
+            <br />
+            <code className="text-xs text-brown_vs">• Oct 2022 - Present</code>
             <br />
             <code className="text-sm">
-              <br />• Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              <br />• Sed id eros non nisi vulputate eleifend. Vestibulum erat
-              ipsum, lacinia ut nibh ut, pulvinar interdum lorem.
-              <br />• Aliquam et nisi eu risus ultrices suscipit nec nec quam.
-              <br />• Suspendisse pretium fermentum luctus.
-              <br />• Maecenas vitae vestibulum ipsum, ut varius diam.
-              <br />• Phasellus mattis nunc vel purus maximus.
+              <br />• Full Stack GIS Web Development
+              <br />• QGIS Plugin 
+              <br />• Assist in NUS research projects by providing geomatics knowledges
+            </code>
+          </div>
+        </div>
+        <div className="flex flex-row pt-10">
+          <div className="w-1/4">
+            {/* <code className="text-yellow_vs">Work</code> */}
+          </div>
+          <div className="w-3/4">
+            <code className="text-blue_vs">JK Land Consultant Sdn. Bhd.</code>
+            <br />
+            <code className="italic text-sm text-lightblue_vs">
+              Johor Bahru, Malaysia
+            </code>
+            <br />
+            <code>Geomatics Engineer</code>
+            <br />
+            <code className="text-xs text-brown_vs">• Oct 2021 - Mar 2022</code>
+            <br />
+            <code className="text-sm">
+              <br />• Involved in settlement monitoring for luxury coastal bungalows located in reclamation area, Forest City.
+              <br />• As a data entry clerk, compiled elevation of buildings, computed velocities of subsidence for analysis. 
+              <br />• Carried out digitizing, analysis of UAV. Post-processed UAV, hydro, stockpiles, 3D TLS point cloud data.
+            </code>
+          </div>
+        </div>
+        <div className="flex flex-row pt-10">
+          <div className="w-1/4">
+            {/* <code className="text-yellow_vs">Work</code> */}
+          </div>
+          <div className="w-3/4">
+            <code>Geomatics Trainee</code>
+            <br />
+            <code className="text-xs text-brown_vs">• Oct 2021 - Mar 2022</code>
+            <br />
+            <code className="text-sm">
+              <br />• Carried out various demarcation and land titles, engineering survey jobs, ensure good quality of data.
+              <br />• Involved in underground utility engineering survey using PCL and GPR.
+              <br />• Out stationed for hydrographic survey. (magnetometer and NORBIT multibeam)
             </code>
           </div>
         </div>
@@ -63,17 +99,14 @@ const Resume = () => {
           </div>
           <div className="w-3/4">
             <code className="text-sm">
-              <br />• Nulla tristique luctus lacinia. Nullam ut tortor arcu.
-              <br />• Aenean in mi non leo placerat suscipit a eget odio.
-              <br />• Vivamus et dolor odio.
-              <br />• Suspendisse tempus interdum eros, et bibendum massa tempus
-              vitae.
-              <br />• Sed in aliquam ligula. Sed eget orci tortor.
-              <br />• Pellentesque laoreet laoreet justo, sed efficitur sapien
-              tincidunt eu.
-              <br />• Nulla tempor nunc eu molestie volutpat. Nunc a accumsan
-              dolor.
-              <br />• Duis ut congue dui.
+              <br />• Software development
+              <br />• AutoDesk products
+              <br />• ArcGIS products
+              <br />• Geospatial data
+              <br />• Geographic Information System (GIS)
+              <br />• Geomatics Enginnering
+              <br />• LiDAR
+              <br />• Land surveying
             </code>
           </div>
         </div>

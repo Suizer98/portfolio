@@ -3,6 +3,7 @@ import tw from "tailwind-styled-components";
 import { CogIcon, XIcon } from "@heroicons/react/solid";
 
 const JSIcon = require("../assets/icons/JSIcon.png");
+const TSIcon = require("../assets/icons/TSIcon.png");
 
 const Container = tw.div`
   h-full 
@@ -46,8 +47,8 @@ const NavBar = ({ showPage, setShowPage }) => {
           }}
         >
           <img
-            src={JSIcon}
-            alt="JS Icon"
+            src={TSIcon}
+            alt="TS Icon"
             className="w-7 mr-1  text-yellow_vs"
           />
           Home.js
@@ -59,8 +60,8 @@ const NavBar = ({ showPage, setShowPage }) => {
           }}
         >
           <img
-            src={JSIcon}
-            alt="JS Icon"
+            src={TSIcon}
+            alt="TS Icon"
             className="w-7 mr-1  text-yellow_vs"
           />
           Home.js
