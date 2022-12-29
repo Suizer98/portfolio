@@ -35,8 +35,8 @@ const ActiveContainer = tw.div`
   text-gray-300
 `;
 
-const NavBar = ({ showPage, setShowPage }) => {
-  const [hidePage, setHidePage] = useState([]);
+const NavBar = ({ showPage, setShowPage, hidePage, setHidePage }) => {
+  // const [hidePage, setHidePage] = useState([]);
 
   return (
     <div className="flex flex-row h-full">
@@ -51,7 +51,7 @@ const NavBar = ({ showPage, setShowPage }) => {
             alt="TS Icon"
             className="w-7 mr-1  text-yellow_vs"
           />
-          Home.js
+          Home.ts
         </ActiveContainer>
       ) : (
         <Container
@@ -64,7 +64,7 @@ const NavBar = ({ showPage, setShowPage }) => {
             alt="TS Icon"
             className="w-7 mr-1  text-yellow_vs"
           />
-          Home.js
+          Home.ts
         </Container>
       )}
       {hidePage.includes("about") ? null : showPage === "about" ? (
@@ -149,7 +149,6 @@ const NavBar = ({ showPage, setShowPage }) => {
               e.stopPropagation();
               setShowPage("home");
               setHidePage(prevState=>[...prevState, "resume"]);
-              console.log(hidePage);
             }}
           />
         </Container>
@@ -185,8 +184,6 @@ const NavBar = ({ showPage, setShowPage }) => {
               e.stopPropagation();
               setShowPage("home");
               setHidePage(prevState=>[...prevState, "contact"]);
-              console.log(hidePage);
-
             }}
           />
         </Container>

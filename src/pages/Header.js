@@ -10,6 +10,8 @@ function Header() {
       <button
         className="border border-lightblue_vs text-lightblue_vs mt-10 p-3 rounded hover:bg-opacity-10 hover:bg-lightblue_vs w-1/2"
         href="https://suizer98.github.io/suizer/"
+        // onClick={() => window.location.href='https://suizer98.github.io/suizer/'}
+        onClick={() => window.open('https://suizer98.github.io/suizer/','_blank')}
       >
         <code>Check out my Projects !</code>
       </button>

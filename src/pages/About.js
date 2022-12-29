@@ -30,7 +30,7 @@ const About = () => {
         </div>
         <div className="text-[#a2aabc] text-lg mt-5">
           <code>
-          I am Tey Sui Zer, a passionate GISer currently active in National University of Singapore (NUS). 
+          I am Tey Sui Zer, a passionate GISer currently active and working in field. 
           Coming from a geoinformation background, I deal with spatial problems, engaged in various working environments 
           and built up specialised skills. I am capable in handling GIS webpages and researches questions that are related 
           to geomatics engineering.

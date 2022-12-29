@@ -9,11 +9,26 @@ import NavBar from "./NavBar";
 
 const Home = () => {
   const [showPage, setShowPage] = useState("home");
+  const [hidePage, setHidePage] = useState([]);
 
+  const VSIcon = require("../assets/icons/favicon.png");
+  
   return (
     <div id="home" className="App flex h-max bg-[#1e1e1e]">
       <div className="bg-[#262526] fixed h-full hidden lg:block">
-        <LeftBar />
+        <a href="/portfolio">
+          <img
+            src={VSIcon}
+            alt="TS Icon"
+            className="w-7 mt-4 ml-2 text-yellow_vs"
+          />
+        </a>
+        <LeftBar 
+          showPage={showPage}
+          setShowPage={setShowPage}
+          hidePage={hidePage}
+          setHidePage={setHidePage}
+        />
       </div>
       <div className="bg-[#1e1e1e] lg:pl-72 h-full ">
         <div className="lg:hidden">
@@ -23,6 +38,8 @@ const Home = () => {
           <NavBar
             showPage={showPage}
             setShowPage={setShowPage}
+            hidePage={hidePage}
+            setHidePage={setHidePage}
           />
         </div>
         {showPage==="home" ? (
