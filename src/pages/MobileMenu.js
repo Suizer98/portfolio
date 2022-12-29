@@ -14,28 +14,28 @@ const TSIcon = require("../assets/icons/TSIcon.png");
 const MobileMenu = () => {
   const projects = [
     {
-      name: "First Project",
-      href: "#",
+      name: "Home.ts",
+      href: "#Header",
       icon: <img
-      src={JSIcon}
-      alt="JS Icon"
+      src={TSIcon}
+      alt="TS Icon"
       className="w-7 mr-1  ml-5 text-yellow_vs"
     />,
       current: true,
     },
     {
-      name: "Second Project",
-      href: "#",
+      name: "About.js",
+      href: "#About",
       icon:  <img
-      src={TSIcon}
-      alt="TS Icon"
+      src={JSIcon}
+      alt="JS Icon"
       className="w-7 mr-1  ml-5 text-yellow_vs"
     />,
       current: false,
     },
     {
-      name: "Third Project",
-      href: "#",
+      name: "Resume.js",
+      href: "#Resume",
       icon: <img
       src={JSIcon}
       alt="JS Icon"
@@ -44,8 +44,8 @@ const MobileMenu = () => {
       current: false,
     },
     {
-      name: "Fourth Project",
-      href: "#",
+      name: "Contact.js",
+      href: "#Contact",
       icon: <img
       src={JSIcon}
       alt="JS Icon"
@@ -89,7 +89,7 @@ const MobileMenu = () => {
                   ) : (
                     <ChevronRightIcon className=" w-7 mr-4 " />
                   )}
-                  Projects :
+                  Web :
                 </div>
                 {showProjectsList
                   ? projects.map((item) => (
