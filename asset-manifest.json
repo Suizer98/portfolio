@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.45e0b9a8.css",
+    "main.js": "/portfolio/static/js/main.9053379e.js",
+    "static/js/787.e33ad87d.chunk.js": "/portfolio/static/js/787.e33ad87d.chunk.js",
+    "static/media/favicon.png": "/portfolio/static/media/favicon.0bb0fdd78a6603f2b25c.png",
+    "static/media/SqlLogo.png": "/portfolio/static/media/SqlLogo.85fb38d6773862e917f4.png",
+    "static/media/MongoDBLogo.png": "/portfolio/static/media/MongoDBLogo.1df44ece8cf851cecf69.png",
+    "static/media/NodeJSLogo.png": "/portfolio/static/media/NodeJSLogo.aabc0115471d1e8b2d6e.png",
+    "static/media/ReactLogo.png": "/portfolio/static/media/ReactLogo.37940586dd863909ffca.png",
+    "static/media/TailwindLogo.png": "/portfolio/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
+    "static/media/PythonLogo.png": "/portfolio/static/media/PythonLogo.2e65c2b73eddaaf97e06.png",
+    "static/media/DockerLogo.png": "/portfolio/static/media/DockerLogo.6d1afdb456643d603142.png",
+    "static/media/TypescriptLogo.png": "/portfolio/static/media/TypescriptLogo.c4105801aadf2606ac30.png",
+    "static/media/ReduxLogo.png": "/portfolio/static/media/ReduxLogo.296b9306ae3e4de348c6.png",
+    "static/media/FirebaseLogo.png": "/portfolio/static/media/FirebaseLogo.a5f9f1fd96c36040dd43.png",
+    "static/media/JsLogo.png": "/portfolio/static/media/JsLogo.db393457bf6303d846d6.png",
+    "index.html": "/portfolio/index.html",
+    "main.45e0b9a8.css.map": "/portfolio/static/css/main.45e0b9a8.css.map",
+    "main.9053379e.js.map": "/portfolio/static/js/main.9053379e.js.map",
+    "787.e33ad87d.chunk.js.map": "/portfolio/static/js/787.e33ad87d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45e0b9a8.css",
+    "static/js/main.9053379e.js"
+  ]
+}
