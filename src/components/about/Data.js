@@ -1,4 +1,4 @@
-const Data = [
+export const Data = [
   {
     id: 1,
     title: 'Programming Languages',
@@ -114,4 +114,33 @@ const Data = [
   }
 ]
 
-export default Data
+export const ExperiencesData = [
+  {
+    id: 1,
+    type: 'Professional',
+    period: '2022 - Present',
+    title: 'National University of Singapore, Singapore',
+    description1: '● Full Stack GIS Web Development',
+    description2: ' - React TypeScript, Zustand, Openlayer, OpenAPI',
+    description3: ' - Django Rest, Geoserver, PostgreSQL, Redis',
+    description4: '● DevOps with Docker, GitLab CI/CD',
+    description5: '● Microsoft Azure (Singapore GCC Cloud)',
+    description6: '● Vitest, Playwright, Django test framework',
+    description7: '● Window, Ubuntu and RHEL Administrations',
+    description8: '● QGIS Plugin Developments with PyQt5',
+    description9:
+      '● Involved in NUS research topics (GIS, Geomatics, Climate Change, Marine Science)'
+  },
+  {
+    id: 2,
+    type: 'Internship',
+    period: '2021 - 2021',
+    title: 'Geomatics Engineer Trainee at JK Land Consultant Sdn. Bhd., Johor Bahru, Malaysia',
+    description1: '● Field works',
+    description2:
+      ' - Carried out topographic, demarcation and land title surveys, engineering, hydrographic and underground utility surveys.',
+    description3: '● Drafter',
+    description4:
+      ' - Carried out post-processing, digitizing, and analysis of UAV, hydrography, stockpiles, 3D TLS point cloud data. Produced engineering plans such as detail survey, telecommunication tower radio range, underground cables using AutoCAD.'
+  }
+]

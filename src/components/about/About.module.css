@@ -16,7 +16,7 @@
 }
 
 .skills {
-  width: 800px;
+  width: 1000px;
   display: flex;
   font-size: 1.3rem;
   gap: 1rem;
@@ -27,7 +27,7 @@
   display: inline-block;
   text-align: center;
   border: 1px solid transparent;
-  padding: 0.5rem 1.2rem;
+  padding: 0.2rem 0.2rem;
   border-radius: 4px;
   transition: background 0.2s;
   letter-spacing: 0.5px;
@@ -36,9 +36,30 @@
   justify-content: center;
 }
 
+.experiences {
+  width: 1000px;
+  font-size: 1.2rem;
+  margin-bottom: 3rem;
+  line-height: 2rem;
+}
+
+.experienceTitle {
+  margin-bottom: 1rem;
+}
+
+.experienceItem {
+  margin-left: 2rem;
+  text-indent: -2rem;
+  border: 1px solid transparent;
+  padding: 0.2rem 0.2rem;
+  border-radius: 4px;
+  transition: background 0.2s;
+  letter-spacing: 0.5px;
+}
+
 @media (min-width: 100em) {
   .text {
-    width: 800px;
+    width: 1000px;
   }
 }
 
