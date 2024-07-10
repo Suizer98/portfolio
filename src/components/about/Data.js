@@ -141,6 +141,8 @@ export const ExperiencesData = [
       ' - Carried out topographic, demarcation and land title surveys, engineering, hydrographic and underground utility surveys.',
     description3: '● Drafter',
     description4:
-      ' - Carried out post-processing, digitizing, and analysis of UAV, hydrography, stockpiles, 3D TLS point cloud data. Produced engineering plans such as detail survey, telecommunication tower radio range, underground cables using AutoCAD.'
+      ' - Carried out post-processing, digitizing, and analysis of UAV, hydrography, stockpiles, 3D TLS point cloud data.',
+    description5:
+      ' - Produced engineering plans such as detail survey, telecommunication tower radio range, underground cables using AutoCAD.'
   }
 ]

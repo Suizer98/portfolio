@@ -158,7 +158,7 @@ export const projectsData = [
     alt: 'Image of Next.js App for Azure project',
     title: 'Next.js App for Azure',
     description:
-      'This is a Next.js project consisting of an OpenLayer Map that shows a beautiful windy style layer. The main goal of this website is to showcase a complete workflow of auto deploy pipeline to Microsoft Azure platform using Github Action pipeline jobs, Docker login and push image to Azure Container Registry, and deploy image as web app service on Azure Web App Service, Azure Container Instance App, Azure Ubuntu VM.',
+      'This is a Next.js project consisting of an OpenLayer Map that shows a beautiful windy style layer. The main goal of this website is to showcase a complete workflow of auto deploy pipeline to Microsoft Azure platform using Github Action pipeline.',
     git: 'https://github.com/Suizer98/nextjsazure',
     demo: 'https://nextjsazure.vercel.app/',
     tech: [
@@ -211,7 +211,7 @@ export const projectsData = [
     alt: 'Image of Mapdemo project',
     title: 'Mapdemo',
     description:
-      "This is a sample repo project using leaflet library. I was required to complete this project within 24 hours for a company's interview. The website is accessible on: https://suizer98.github.io/mapdemo/",
+      "This is a sample static website project using leaflet library. I was required to complete this project within 24 hours for a company's interview. It consists of basic Leaftlet features.",
     git: 'https://github.com/Suizer98/mapdemo',
     demo: 'https://suizer98.github.io/mapdemo/',
     tech: [
@@ -249,7 +249,7 @@ export const projectsData = [
     alt: 'Image of DjangoGIS project',
     title: 'DjangoGIS',
     description:
-      'The website is hosted with free on: http://tey.pythonanywhere.com/. This website is hosted on pythonanywhere free tier server. When inactive, the website shutdown automatically. The live deployment will only be triggered after you access the website. If you see this message, refresh the page again.',
+      'This project was created for participation to Grab Geo*Star Competition in my university final year. It is organised by the Grab that develop the largest super-app for ride-hailing, food delivery etc. in Sourtheast Asia.',
     git: 'https://github.com/Suizer98/djangogis',
     demo: 'http://tey.pythonanywhere.com/',
     tech: [
