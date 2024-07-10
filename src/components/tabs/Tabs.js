@@ -9,7 +9,7 @@ function Tabs() {
   return (
     <nav className={classes.tabs}>
       <ul className={classes.tabList}>
-        <NavLink className={({ isActive }) => (isActive ? activeLink : link)} to="/">
+        <NavLink className={({ isActive }) => (isActive ? activeLink : link)} to="/portfolio">
           Home.py
         </NavLink>
 

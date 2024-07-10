@@ -11,7 +11,7 @@ function Sidebar() {
       </p>
       <ul className={classes.sideNav}>
         <li>
-          <Link className={classes.navItem} to="/">
+          <Link className={classes.navItem} to="/portfolio">
             <i className="fa-brands fa-python"></i>Home.py
           </Link>
 
