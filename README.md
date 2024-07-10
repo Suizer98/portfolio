@@ -2,7 +2,7 @@
 
 This is a Sublime Text Editor style with Mariana themed portfolio website.
 My portfolio can be accessible on:
-https://suizer98.github.io/
+https://suizer98.github.io/portfolio/
 
 Tech stacks:
 
