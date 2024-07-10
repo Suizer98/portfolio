@@ -28,8 +28,8 @@ function Home() {
           <Link to="/contact" className={classes.link}>
             Contact
           </Link>
-          <Link to="/work" className={classes.link}>
-            Work
+          <Link to="/projects" className={classes.link}>
+            Projects
           </Link>
         </div>
       </div>
