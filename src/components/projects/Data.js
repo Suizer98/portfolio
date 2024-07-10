@@ -156,7 +156,7 @@ export const projectsData = [
     type: 'web',
     img: nextjsazure,
     alt: 'Image of Next.js App for Azure project',
-    title: 'Next.js App for Azure',
+    title: 'NextjsAzure',
     description:
       'This is a Next.js project consisting of an OpenLayer Map that shows a beautiful windy style layer. The main goal of this website is to showcase a complete workflow of auto deploy pipeline to Microsoft Azure platform using Github Action pipeline.',
     git: 'https://github.com/Suizer98/nextjsazure',
@@ -209,7 +209,7 @@ export const projectsData = [
     type: 'web',
     img: leaflet,
     alt: 'Image of Mapdemo project',
-    title: 'Mapdemo',
+    title: 'Simple Web Map demo',
     description:
       "This is a sample static website project using leaflet library. I was required to complete this project within 24 hours for a company's interview. It consists of basic Leaftlet features.",
     git: 'https://github.com/Suizer98/mapdemo',

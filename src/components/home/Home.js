@@ -13,9 +13,11 @@ function Home() {
             options={{
               strings: [
                 'Full Stack Software Engineer',
-                'Geomatics Engineer',
+                'Geomatics Engineering',
                 'Ex Land Surveyor',
-                'Passionate about GIS and Geomatics'
+                'Passionate about GIS and Geomatics',
+                'Web technologies euthanist',
+                'A cat lover'
               ],
               autoStart: true,
               loop: true,

@@ -24,7 +24,7 @@ function Contact() {
 
   return (
     <section className={classes.contact}>
-      <h2>Feel free to ping me!</h2>
+      <h2>Ping me here!</h2>
 
       {!hidden && (
         <form ref={form} className={classes.form} onSubmit={sendEmail} onChange={checkForm}>
@@ -73,7 +73,7 @@ function Contact() {
       )}
       {hidden && (
         <div className={classes.field}>
-          <p className={classes.succ}>Email successfully sent!</p>
+          <p className={classes.succ}>Message successfully sent!</p>
         </div>
       )}
 
