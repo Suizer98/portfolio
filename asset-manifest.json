@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7ae97e95.css",
-    "main.js": "/portfolio/static/js/main.bc702a93.js",
+    "main.css": "/portfolio/static/css/main.1b3c8755.css",
+    "main.js": "/portfolio/static/js/main.4220ad11.js",
     "static/css/260.dbb65848.chunk.css": "/portfolio/static/css/260.dbb65848.chunk.css",
     "static/js/260.cf3ef422.chunk.js": "/portfolio/static/js/260.cf3ef422.chunk.js",
-    "static/css/585.a1476da5.chunk.css": "/portfolio/static/css/585.a1476da5.chunk.css",
-    "static/js/585.766b397b.chunk.js": "/portfolio/static/js/585.766b397b.chunk.js",
+    "static/css/650.30752735.chunk.css": "/portfolio/static/css/650.30752735.chunk.css",
+    "static/js/650.fbf2ae68.chunk.js": "/portfolio/static/js/650.fbf2ae68.chunk.js",
     "static/css/154.dbab8719.chunk.css": "/portfolio/static/css/154.dbab8719.chunk.css",
     "static/js/154.e0036d2c.chunk.js": "/portfolio/static/js/154.e0036d2c.chunk.js",
     "static/media/weddinginv.PNG": "/portfolio/static/media/weddinginv.e0d15d1b911d81866fe3.PNG",
@@ -14,17 +14,17 @@
     "static/media/leaflet.PNG": "/portfolio/static/media/leaflet.3960fc75c52f48529e8f.PNG",
     "static/media/pythonanywhere.PNG": "/portfolio/static/media/pythonanywhere.23ab651218988a84c183.PNG",
     "index.html": "/portfolio/index.html",
-    "main.7ae97e95.css.map": "/portfolio/static/css/main.7ae97e95.css.map",
-    "main.bc702a93.js.map": "/portfolio/static/js/main.bc702a93.js.map",
+    "main.1b3c8755.css.map": "/portfolio/static/css/main.1b3c8755.css.map",
+    "main.4220ad11.js.map": "/portfolio/static/js/main.4220ad11.js.map",
     "260.dbb65848.chunk.css.map": "/portfolio/static/css/260.dbb65848.chunk.css.map",
     "260.cf3ef422.chunk.js.map": "/portfolio/static/js/260.cf3ef422.chunk.js.map",
-    "585.a1476da5.chunk.css.map": "/portfolio/static/css/585.a1476da5.chunk.css.map",
-    "585.766b397b.chunk.js.map": "/portfolio/static/js/585.766b397b.chunk.js.map",
+    "650.30752735.chunk.css.map": "/portfolio/static/css/650.30752735.chunk.css.map",
+    "650.fbf2ae68.chunk.js.map": "/portfolio/static/js/650.fbf2ae68.chunk.js.map",
     "154.dbab8719.chunk.css.map": "/portfolio/static/css/154.dbab8719.chunk.css.map",
     "154.e0036d2c.chunk.js.map": "/portfolio/static/js/154.e0036d2c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ae97e95.css",
-    "static/js/main.bc702a93.js"
+    "static/css/main.1b3c8755.css",
+    "static/js/main.4220ad11.js"
   ]
 }
