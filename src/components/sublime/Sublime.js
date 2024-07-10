@@ -14,12 +14,12 @@ const Contact = lazy(() => import('../contact/Contact'))
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/portfolio',
     element: <Wrapper comp={<Home />} />
   },
   {
     path: '*',
-    loader: () => redirect('/')
+    loader: () => redirect('/portfolio')
   },
   {
     path: 'about',
