@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.338dba5e.css",
-    "main.js": "/static/js/main.192526e7.js",
-    "static/css/260.b85f11ff.chunk.css": "/static/css/260.b85f11ff.chunk.css",
-    "static/js/260.a681c45c.chunk.js": "/static/js/260.a681c45c.chunk.js",
-    "static/css/585.a1476da5.chunk.css": "/static/css/585.a1476da5.chunk.css",
-    "static/js/585.766b397b.chunk.js": "/static/js/585.766b397b.chunk.js",
-    "static/css/154.dbab8719.chunk.css": "/static/css/154.dbab8719.chunk.css",
-    "static/js/154.94d9a281.chunk.js": "/static/js/154.94d9a281.chunk.js",
-    "static/media/weddinginv.PNG": "/static/media/weddinginv.e0d15d1b911d81866fe3.PNG",
-    "static/media/loveesri.PNG": "/static/media/loveesri.bfbe2c1e566f6731ebce.PNG",
-    "static/media/nextjsazure.PNG": "/static/media/nextjsazure.2eff4424d34232d8311c.PNG",
-    "static/media/leaflet.PNG": "/static/media/leaflet.3960fc75c52f48529e8f.PNG",
-    "static/media/pythonanywhere.PNG": "/static/media/pythonanywhere.23ab651218988a84c183.PNG",
-    "index.html": "/index.html",
-    "main.338dba5e.css.map": "/static/css/main.338dba5e.css.map",
-    "main.192526e7.js.map": "/static/js/main.192526e7.js.map",
-    "260.b85f11ff.chunk.css.map": "/static/css/260.b85f11ff.chunk.css.map",
-    "260.a681c45c.chunk.js.map": "/static/js/260.a681c45c.chunk.js.map",
-    "585.a1476da5.chunk.css.map": "/static/css/585.a1476da5.chunk.css.map",
-    "585.766b397b.chunk.js.map": "/static/js/585.766b397b.chunk.js.map",
-    "154.dbab8719.chunk.css.map": "/static/css/154.dbab8719.chunk.css.map",
-    "154.94d9a281.chunk.js.map": "/static/js/154.94d9a281.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.338dba5e.css",
+    "main.js": "/portfolio/static/js/main.52a77225.js",
+    "static/css/260.b85f11ff.chunk.css": "/portfolio/static/css/260.b85f11ff.chunk.css",
+    "static/js/260.a681c45c.chunk.js": "/portfolio/static/js/260.a681c45c.chunk.js",
+    "static/css/585.a1476da5.chunk.css": "/portfolio/static/css/585.a1476da5.chunk.css",
+    "static/js/585.766b397b.chunk.js": "/portfolio/static/js/585.766b397b.chunk.js",
+    "static/css/154.dbab8719.chunk.css": "/portfolio/static/css/154.dbab8719.chunk.css",
+    "static/js/154.94d9a281.chunk.js": "/portfolio/static/js/154.94d9a281.chunk.js",
+    "static/media/weddinginv.PNG": "/portfolio/static/media/weddinginv.e0d15d1b911d81866fe3.PNG",
+    "static/media/loveesri.PNG": "/portfolio/static/media/loveesri.bfbe2c1e566f6731ebce.PNG",
+    "static/media/nextjsazure.PNG": "/portfolio/static/media/nextjsazure.2eff4424d34232d8311c.PNG",
+    "static/media/leaflet.PNG": "/portfolio/static/media/leaflet.3960fc75c52f48529e8f.PNG",
+    "static/media/pythonanywhere.PNG": "/portfolio/static/media/pythonanywhere.23ab651218988a84c183.PNG",
+    "index.html": "/portfolio/index.html",
+    "main.338dba5e.css.map": "/portfolio/static/css/main.338dba5e.css.map",
+    "main.52a77225.js.map": "/portfolio/static/js/main.52a77225.js.map",
+    "260.b85f11ff.chunk.css.map": "/portfolio/static/css/260.b85f11ff.chunk.css.map",
+    "260.a681c45c.chunk.js.map": "/portfolio/static/js/260.a681c45c.chunk.js.map",
+    "585.a1476da5.chunk.css.map": "/portfolio/static/css/585.a1476da5.chunk.css.map",
+    "585.766b397b.chunk.js.map": "/portfolio/static/js/585.766b397b.chunk.js.map",
+    "154.dbab8719.chunk.css.map": "/portfolio/static/css/154.dbab8719.chunk.css.map",
+    "154.94d9a281.chunk.js.map": "/portfolio/static/js/154.94d9a281.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.338dba5e.css",
-    "static/js/main.192526e7.js"
+    "static/js/main.52a77225.js"
   ]
 }
