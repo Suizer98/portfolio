@@ -1,0 +1,62 @@
+:root {
+  --main-bg: #263238;
+  --sidebar: #2e3c43;
+  --text: #cdd3de;
+  --aside: #37474f;
+  --accent-1: #c792ea;
+  --accent-2: #82aaff;
+  --accent-3: #89ddff;
+  --accent-4: #a3be8c;
+  --accent-5: #ec5f67;
+  --accent-6: #f78c6c;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 82.5%;
+  background-color: black;
+  font-family: 'Ubuntu Mono', monospace;
+  color: var(--text);
+}
+
+i {
+  margin-right: 0.5rem;
+}
+
+h2 {
+  font-size: 3rem;
+  color: var(--accent-2);
+  margin-bottom: 2rem;
+  letter-spacing: 0.5px;
+}
+
+h3 {
+  color: var(--accent-1);
+  font-size: 2rem;
+  margin-bottom: 1.2rem;
+  letter-spacing: 0.5px;
+}
+
+h4 {
+  color: var(--accent-1);
+  font-size: 1.8rem;
+  margin-bottom: 0.6rem;
+  letter-spacing: 0.5px;
+}
+
+@media (max-width: 34rem) {
+  h2 {
+    font-size: 2.4rem;
+  }
+}
+
+.logo {
+  width: 16px;
+  height: 16px;
+  margin-right: 0.5rem;
+}

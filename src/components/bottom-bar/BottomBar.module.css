@@ -1,0 +1,26 @@
+.bottom {
+  background: var(--main-bg);
+  grid-column: 1 / -1;
+  grid-row: 3 / 4;
+  border-top: 1px solid var(--aside);
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.right {
+  display: flex;
+  gap: 2rem;
+}
+
+@media (max-width: 34em) {
+  .copy {
+    font-size: 0.75rem;
+    line-height: 1.2;
+  }
+
+  .span {
+    display: block;
+  }
+}
