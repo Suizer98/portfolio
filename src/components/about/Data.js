@@ -117,7 +117,7 @@ export const Data = [
 export const ExperiencesData = [
   {
     id: 1,
-    type: 'Professional',
+    role: 'Software Engineer',
     period: '2022 - Present',
     title: 'National University of Singapore, Singapore',
     description1: '● Full Stack GIS Web Development',
@@ -133,9 +133,9 @@ export const ExperiencesData = [
   },
   {
     id: 2,
-    type: 'Internship',
+    role: 'Geomatics Engineer (Internship)',
     period: '2021 - 2021',
-    title: 'Geomatics Engineer Trainee at JK Land Consultant Sdn. Bhd., Johor Bahru, Malaysia',
+    title: 'JK Land Consultant Sdn Bhd, Johor Bahru, Malaysia',
     description1: '● Field works',
     description2:
       ' - Carried out topographic, demarcation and land title surveys, engineering, hydrographic and underground utility surveys.',

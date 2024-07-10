@@ -1,11 +1,12 @@
 import '../../Colors.css'
 import classes from './About.module.css'
 
-function Experiences({ type, title, period, ...descriptions }) {
+function Experiences({ role, title, period, ...descriptions }) {
   return (
     <section className={classes.experiences}>
       <div className={classes.experienceTitle}>
         <h5>{title}</h5>
+        <h7>{role}</h7>
         <h6>{period}</h6>
       </div>
       {Object.keys(descriptions)
