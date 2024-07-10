@@ -1,0 +1,15 @@
+{
+  "short_name": "Sui Zer",
+  "name": "Sui Zer Portfolio",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "250x250",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
