@@ -2,7 +2,7 @@
 
 This is a Sublime Text Editor style with Mariana themed portfolio website.
 My portfolio can be accessible on:
-https://suizer98.github.io/portfolio/
+https://suizer98.github.io/
 
 Tech stacks:
 
@@ -33,3 +33,21 @@ Usual terminal commands such as:
 ```
 npm run format
 ```
+
+## Github Pages Deployment
+
+### Using `gh-pages` package
+
+You need to make sure you install `gh-pages`:
+
+```
+npm install --save-dev gh-pages
+```
+
+Then you run this command to create a new branch called `gh-pages` as well on your github repo:
+
+```
+npm run deploy
+```
+
+Finally when you go to **Settings** > **Pages** > **Branch**, you choose `gh-pages` branch to deploy.
