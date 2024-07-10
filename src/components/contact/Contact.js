@@ -73,10 +73,7 @@ function Contact() {
       )}
       {hidden && (
         <div className={classes.field}>
-          <p className={classes.succ}>
-            Email successfully sent! Thats what it would be saying if there would be an actual email
-            service connected!
-          </p>
+          <p className={classes.succ}>Email successfully sent!</p>
         </div>
       )}
 
