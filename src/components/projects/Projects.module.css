@@ -146,7 +146,8 @@
   }
 
   .imageWrapper {
-    width: 100%;
+    width: 50%;
+    height: auto;
   }
 
   .image {
@@ -155,5 +156,23 @@
 
   .info {
     width: 100%;
+  }
+
+  .description {
+    max-width: 25em;
+    font-size: 1 rem;
+    margin-bottom: 1.2rem;
+    line-height: 1.4;
+  }
+
+  .list {
+    max-width: 25em;
+    margin: 0 auto;
+    /* justify-content: flex-start; */
+  }
+
+  .list > * {
+    flex: 1 1 auto;
+    max-width: calc(50% - 0.5rem); /* Adjust this value based on your desired layout */
   }
 }

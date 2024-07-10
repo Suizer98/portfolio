@@ -28,12 +28,12 @@ export const projectsData = [
       },
       {
         id: 3,
-        color: 'blue',
+        color: 'purple',
         tech: 'React'
       },
       {
         id: 4,
-        color: 'blue',
+        color: 'yellow',
         tech: 'TailwindCSS'
       },
       {
@@ -48,12 +48,12 @@ export const projectsData = [
       },
       {
         id: 7,
-        color: 'blue',
+        color: 'yellow',
         tech: 'Docker'
       },
       {
         id: 8,
-        color: 'orange',
+        color: 'green',
         tech: 'Ubuntu'
       },
       {
@@ -63,13 +63,18 @@ export const projectsData = [
       },
       {
         id: 10,
-        color: 'red',
+        color: 'blue',
         tech: 'NPM'
       },
       {
         id: 11,
         color: 'green',
         tech: 'Netlify'
+      },
+      {
+        id: 12,
+        color: 'blue',
+        tech: 'Chakra-UI'
       }
     ]
   },
@@ -101,12 +106,12 @@ export const projectsData = [
       },
       {
         id: 4,
-        color: 'blue',
+        color: 'green',
         tech: 'FastAPI'
       },
       {
         id: 5,
-        color: 'blue',
+        color: 'yellow',
         tech: 'Python'
       },
       {
@@ -116,7 +121,7 @@ export const projectsData = [
       },
       {
         id: 7,
-        color: 'orange',
+        color: 'purple',
         tech: 'Ubuntu'
       },
       {
@@ -138,6 +143,11 @@ export const projectsData = [
         id: 11,
         color: 'blue',
         tech: 'PostgreSQL'
+      },
+      {
+        id: 12,
+        color: 'blue',
+        tech: 'Ant-D'
       }
     ]
   },
@@ -159,27 +169,37 @@ export const projectsData = [
       },
       {
         id: 2,
-        color: 'blue',
-        tech: 'OpenLayers'
+        color: 'green',
+        tech: 'TypeScript'
       },
       {
         id: 3,
-        color: 'blue',
-        tech: 'Docker'
+        color: 'yellow',
+        tech: 'OpenLayers'
       },
       {
         id: 4,
+        color: 'purple',
+        tech: 'Docker'
+      },
+      {
+        id: 5,
         color: 'blue',
         tech: 'Azure'
       },
       {
-        id: 5,
+        id: 6,
         color: 'red',
         tech: 'SQL Server'
       },
       {
-        id: 6,
-        color: 'blue',
+        id: 7,
+        color: 'green',
+        tech: 'Vercel'
+      },
+      {
+        id: 8,
+        color: 'purple',
         tech: 'GitHub Actions'
       }
     ]
@@ -198,22 +218,27 @@ export const projectsData = [
       {
         id: 1,
         color: 'green',
-        tech: 'Leafletjs'
+        tech: 'Leaftletjs'
       },
       {
         id: 2,
         color: 'blue',
-        tech: 'Leaflet APIs'
+        tech: 'JS'
       },
       {
         id: 3,
-        color: 'blue',
+        color: 'yellow',
         tech: 'CSS'
       },
       {
         id: 4,
         color: 'red',
         tech: 'HTML'
+      },
+      {
+        id: 5,
+        color: 'purple',
+        tech: 'GitHub Actions'
       }
     ]
   },
@@ -257,6 +282,11 @@ export const projectsData = [
         id: 6,
         color: 'blue',
         tech: 'openrouteservice'
+      },
+      {
+        id: 7,
+        color: 'blue',
+        tech: 'pythonanywhere'
       }
     ]
   }
