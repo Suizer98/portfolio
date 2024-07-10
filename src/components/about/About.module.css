@@ -72,5 +72,26 @@
 @media (max-width: 57em) {
   .about {
     height: 100%;
+    max-width: 50rem;
+  }
+  .text {
+    max-width: 50rem;
+  }
+  .skills {
+    width: 100%;
+    max-width: 50rem;
+  }
+  .experiences {
+    width: 100%;
+    max-width: 50rem;
+  }
+  .experienceTitle {
+    max-width: 50rem;
+  }
+  .experienceItem {
+    max-width: 50rem;
+  }
+  .skillItem {
+    max-width: 50rem;
   }
 }
