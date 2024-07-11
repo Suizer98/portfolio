@@ -15,7 +15,7 @@ jobs:
           npm run-script build
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4.6.3
+        uses: JamesIves/github-pages-deploy-action@v4.6.1
         with:
           folder: build
           token: ${{ secrets.ACCESS_TOKEN }}
