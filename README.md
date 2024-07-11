@@ -8,6 +8,8 @@ Tech stacks:
 
 ![Tech stacks](https://skillicons.dev/icons?i=react,js,tailwind,css,html,github,githubactions)
 
+It also integrates telegram BotFather Api which can alert me when you drop a message.
+
 ## Local Development
 
 ### To install all dependencies from `package.json`
