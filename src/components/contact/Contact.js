@@ -1,3 +1,4 @@
+import axios from 'axios'
 import { useRef, useState } from 'react'
 
 import classes from './Contact.module.css'
@@ -17,9 +18,27 @@ function Contact() {
     }
   }
 
-  const sendEmail = (e) => {
+  const sendEmail = async (e) => {
     e.preventDefault()
-    setHidden(true)
+    const name = form.current['0'].value
+    const email = form.current['1'].value
+    const message = form.current['2'].value
+
+    const telegramMessage = `New contact form submission:\n\nName: ${name}\nEmail: ${email}\nMessage: ${message}`
+
+    try {
+      await axios.post(
+        `https://api.telegram.org/bot${process.env.REACT_APP_TELEGRAM_TOKEN}/sendMessage`,
+        {
+          chat_id: '722296030', // Your Telegram chat ID
+          text: telegramMessage
+        }
+      )
+      setHidden(true)
+    } catch (err) {
+      console.error('Error sending message:', err.response ? err.response.data : err.message)
+      setError(true)
+    }
   }
 
   return (
@@ -64,7 +83,7 @@ function Contact() {
             required
           />
           {error && (
-            <p className={classes.error}>An error occured while sending. Try again later.</p>
+            <p className={classes.error}>An error occurred while sending. Try again later.</p>
           )}
           <button className={classes.send} type="submit" disabled>
             Send
