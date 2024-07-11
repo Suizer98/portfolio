@@ -38,16 +38,28 @@ npm run format
 
 ### Using `gh-pages` package
 
-You need to make sure you install `gh-pages`:
+1. You need to make sure you install `gh-pages`:
 
 ```
 npm install --save-dev gh-pages
 ```
 
-Then you run this command to create a new branch called `gh-pages` as well on your github repo:
+2. Add these lines to your `package.json` as below:
+
+```
+  "scripts": {
+    ....
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+```
+
+3. After that, run command below will create a new branch called `gh-pages` as well as on your github repo:
 
 ```
 npm run deploy
 ```
 
-Finally when you go to **Settings** > **Pages** > **Branch**, you choose `gh-pages` branch to deploy.
+4. Finally when you go to **Settings** > **Pages** > **Branch**, you choose `gh-pages` branch to deploy.
+
+5. You don't need to modify the branch manually, make sure you run this command everytime when you want to publish the latest results.
