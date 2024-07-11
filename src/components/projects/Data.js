@@ -12,7 +12,7 @@ export const projectsData = [
     alt: 'Image of Love ESRI project',
     title: 'Love ESRI',
     description:
-      'A project to showcase how I love ESRI products by utilising their JavaScript SDK APIs. It is hosting on loveesri.netlify.app as a single tier app.',
+      'A project to showcase how I love ESRI products by utilising their JavaScript Developer SDK APIs. It is hosting on Netlify platform as a single tier app. It demostrates some of the cooler feature such as satellite orbiting around the Earth.',
     git: 'https://github.com/Suizer98/love-esri',
     demo: 'https://loveesri.netlify.app/',
     tech: [

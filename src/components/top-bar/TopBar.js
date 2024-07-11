@@ -8,7 +8,14 @@ function TopBar() {
         <div className={classes.dot}></div>
         <div className={classes.dot}></div>
       </div>
-      <p className={classes.title}>Sublime Text</p>
+      <div className={classes.titleContainer}>
+        <img
+          src="https://skillicons.dev/icons?i=sublime"
+          alt="Sublime Text Icon"
+          className={classes.icon}
+        />
+        <p className={classes.title}>Sublime Text</p>
+      </div>
       <div></div>
     </div>
   )
