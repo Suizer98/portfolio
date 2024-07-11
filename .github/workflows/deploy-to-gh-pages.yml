@@ -13,8 +13,6 @@ jobs:
         run: |
           npm install
           npm run-script build
-        env:
-          REACT_APP_TELEGRAM_TOKEN: ${{ secrets.REACT_APP_TELEGRAM_TOKEN }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.6.1
