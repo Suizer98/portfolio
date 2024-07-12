@@ -58,7 +58,7 @@ export const projectsData = [
       },
       {
         id: 9,
-        color: 'green',
+        color: 'purple',
         tech: 'Bash'
       },
       {
@@ -101,7 +101,7 @@ export const projectsData = [
       },
       {
         id: 3,
-        color: 'blue',
+        color: 'yellow',
         tech: 'React'
       },
       {
@@ -146,7 +146,7 @@ export const projectsData = [
       },
       {
         id: 12,
-        color: 'blue',
+        color: 'yellow',
         tech: 'Ant-D'
       }
     ]
@@ -265,7 +265,7 @@ export const projectsData = [
       },
       {
         id: 3,
-        color: 'blue',
+        color: 'yellow',
         tech: 'JS'
       },
       {
@@ -280,7 +280,7 @@ export const projectsData = [
       },
       {
         id: 6,
-        color: 'blue',
+        color: 'purple',
         tech: 'openrouteservice'
       },
       {

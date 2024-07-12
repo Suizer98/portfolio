@@ -14,10 +14,11 @@ function Home() {
               strings: [
                 'Full Stack Software Engineer',
                 'Geomatics Engineering',
+                'Web technologies euthanist',
                 'Ex Land Surveyor',
                 'Passionate about GIS and Geomatics',
-                'Web technologies euthanist',
-                'A cat lover'
+                'A cat lover',
+                'Caught fire in coding'
               ],
               autoStart: true,
               loop: true,
