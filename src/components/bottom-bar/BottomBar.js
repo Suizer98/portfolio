@@ -8,7 +8,7 @@ function BottomBar() {
       <div className={classes.left}>
         <p className={classes.copy}>
           <span className={classes.span}>&copy;{copyYear} Sui Zer. </span>
-          <span className={classes.span}>All rights reserved.</span>
+          <span className={classes.span}>Line 19, Column 98</span>
         </p>
       </div>
       <div className={classes.right}>
