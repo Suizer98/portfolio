@@ -26,7 +26,8 @@ export const Data = [
       { id: 4, icon: 'vite' },
       { id: 5, icon: 'npm' },
       { id: 6, icon: 'yarn' },
-      { id: 7, icon: 'qt' }
+      { id: 7, icon: 'qt' },
+      { id: 8, icon: 'svg' }
     ]
   },
   {
@@ -79,9 +80,10 @@ export const Data = [
       { id: 1, icon: 'redhat' },
       { id: 2, icon: 'windows' },
       { id: 3, icon: 'ubuntu' },
-      { id: 4, icon: 'linux' },
-      { id: 5, icon: 'bash' },
-      { id: 6, icon: 'powershell' }
+      { id: 4, icon: 'apple' },
+      { id: 5, icon: 'linux' },
+      { id: 6, icon: 'bash' },
+      { id: 7, icon: 'powershell' }
     ]
   },
   {
@@ -96,12 +98,14 @@ export const Data = [
       { id: 6, icon: 'anaconda' },
       { id: 7, icon: 'vscode' },
       { id: 8, icon: 'sublime' },
-      { id: 9, icon: 'vim' },
-      { id: 10, icon: 'visualstudio' },
-      { id: 11, icon: 'cmake' },
-      { id: 12, icon: 'postman' },
-      { id: 13, icon: 'opencv' },
-      { id: 14, icon: 'notion' }
+      { id: 9, icon: 'pycharm' },
+      { id: 10, icon: 'vim' },
+      { id: 11, icon: 'visualstudio' },
+      { id: 12, icon: 'cmake' },
+      { id: 13, icon: 'postman' },
+      { id: 14, icon: 'md' },
+      { id: 15, icon: 'opencv' },
+      { id: 16, icon: 'notion' }
     ]
   },
   {
