@@ -1,3 +1,4 @@
+import deckglgis from './img/deckglgis.PNG'
 import leaflet from './img/leaflet.PNG'
 import loveesri from './img/loveesri.PNG'
 import nextjsazure from './img/nextjsazure.PNG'
@@ -287,6 +288,79 @@ export const projectsData = [
         id: 7,
         color: 'blue',
         tech: 'pythonanywhere'
+      }
+    ]
+  },
+  {
+    id: 6,
+    type: 'web',
+    img: deckglgis,
+    alt: 'Image of DeckGLGIS project',
+    title: 'DeckGLGIS',
+    description:
+      'This project is an UpWork freelance job to show POC of 3D volume computation happening in ReactTS + DeckGL Web app for CrystallBall company. Backend is comprise of Django + Geoserver + Postgres.',
+    git: 'https://gitlab.com/suizer98/deckglgis',
+    demo: 'https://gitlab.com/suizer98/deckglgis',
+    tech: [
+      {
+        id: 1,
+        color: 'green',
+        tech: 'Vite'
+      },
+      {
+        id: 2,
+        color: 'blue',
+        tech: 'TypeScript'
+      },
+      {
+        id: 3,
+        color: 'purple',
+        tech: 'React'
+      },
+      {
+        id: 4,
+        color: 'yellow',
+        tech: 'TailwindCSS'
+      },
+      {
+        id: 5,
+        color: 'blue',
+        tech: 'CSS'
+      },
+      {
+        id: 6,
+        color: 'red',
+        tech: 'HTML'
+      },
+      {
+        id: 7,
+        color: 'yellow',
+        tech: 'Docker'
+      },
+      {
+        id: 8,
+        color: 'green',
+        tech: 'Ubuntu'
+      },
+      {
+        id: 9,
+        color: 'purple',
+        tech: 'Bash'
+      },
+      {
+        id: 10,
+        color: 'blue',
+        tech: 'NPM'
+      },
+      {
+        id: 11,
+        color: 'green',
+        tech: 'Django'
+      },
+      {
+        id: 12,
+        color: 'blue',
+        tech: 'Chakra-UI'
       }
     ]
   }

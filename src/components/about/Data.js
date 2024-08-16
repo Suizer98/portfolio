@@ -127,7 +127,7 @@ export const ExperiencesData = [
     description1: '● Full Stack GIS Web Development',
     description2: ' - React TypeScript, Zustand, Openlayer, OpenAPI',
     description3: ' - Django Rest, Geoserver, PostgreSQL, Redis',
-    description4: '● DevOps with Docker, GitLab CI/CD',
+    description4: '● DevOps with Docker, GitLab CI/CD. Ansible',
     description5: '● Microsoft Azure (Singapore GCC Cloud)',
     description6: '● Vitest, Playwright, Django test framework',
     description7: '● Window, Ubuntu and RHEL Administrations',
