@@ -2,6 +2,7 @@ import { Suspense, lazy } from 'react'
 import { RouterProvider, createBrowserRouter, redirect } from 'react-router-dom'
 
 import BottomBar from '../bottom-bar/BottomBar'
+import Certs from '../certs/Certs'
 import Home from '../home/Home'
 import Loading from '../loading/Loading'
 import TopBar from '../top-bar/TopBar'
@@ -28,6 +29,10 @@ const router = createBrowserRouter([
   {
     path: 'projects',
     element: <Wrapper comp={<Projects />} />
+  },
+  {
+    path: 'certs',
+    element: <Wrapper comp={<Certs />} />
   },
   {
     path: 'contact',

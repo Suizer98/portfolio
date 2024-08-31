@@ -23,6 +23,10 @@ function Sidebar() {
             <i className="fa-brands fa-css3"></i>Projects.css
           </Link>
 
+          <Link className={classes.navItem} to="/certs">
+            <i className="fa-brands fa-js"></i>Certs.js
+          </Link>
+
           <Link className={classes.navItem} to="/contact">
             <i className="fa-brands fa-html5"></i>Contact.html
           </Link>
