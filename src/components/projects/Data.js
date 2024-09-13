@@ -299,8 +299,8 @@ export const projectsData = [
     title: 'DeckGLGIS',
     description:
       'This project is an UpWork freelance job to show POC of 3D volume computation happening in ReactTS + DeckGL Web app for CrystallBall company. Backend is comprise of Django + Geoserver + Postgres.',
-    git: 'https://gitlab.com/suizer98/deckglgis',
-    demo: 'https://gitlab.com/suizer98/deckglgis',
+    git: 'https://github.com/Suizer98/DeckGLGIS',
+    demo: 'https://github.com/Suizer98/DeckGLGIS',
     tech: [
       {
         id: 1,
