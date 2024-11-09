@@ -30,7 +30,8 @@ function Contact() {
       await axios.post(
         `https://api.telegram.org/bot${process.env.REACT_APP_TELEGRAM_TOKEN}/sendMessage`,
         {
-          chat_id: '722296030', // Your Telegram chat ID
+          // https://api.telegram.org/bot<token>/getUpdates
+          chat_id: `${process.env.REACT_APP_CHAT_ID}`,
           text: telegramMessage
         }
       )
