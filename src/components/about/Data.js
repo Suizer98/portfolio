@@ -11,9 +11,10 @@ export const Data = [
       { id: 6, icon: 'matlab' },
       { id: 7, icon: 'octave' },
       { id: 8, icon: 'r' },
-      { id: 9, icon: 'cpp' },
-      { id: 10, icon: 'c' },
-      { id: 11, icon: 'go' }
+      { id: 9, icon: 'kotlin' },
+      { id: 10, icon: 'cpp' },
+      { id: 11, icon: 'c' },
+      { id: 12, icon: 'go' }
     ]
   },
   {
@@ -39,7 +40,8 @@ export const Data = [
       { id: 3, icon: 'fastapi' },
       { id: 4, icon: 'redis' },
       { id: 5, icon: 'prisma' },
-      { id: 6, icon: 'selenium' }
+      { id: 6, icon: 'selenium' },
+      { id: 7, icon: 'dotnet' }
     ]
   },
   {
@@ -88,6 +90,17 @@ export const Data = [
   },
   {
     id: 8,
+    title: 'IDE',
+    items: [
+      { id: 1, icon: 'vscode' },
+      { id: 2, icon: 'sublime' },
+      { id: 3, icon: 'pycharm' },
+      { id: 4, icon: 'vim' },
+      { id: 5, icon: 'visualstudio' },
+    ]
+  },
+  {
+    id: 9,
     title: 'Other Software Engineering Tools',
     items: [
       { id: 1, icon: 'git' },
@@ -96,20 +109,15 @@ export const Data = [
       { id: 4, icon: 'vercel' },
       { id: 5, icon: 'heroku' },
       { id: 6, icon: 'anaconda' },
-      { id: 7, icon: 'vscode' },
-      { id: 8, icon: 'sublime' },
-      { id: 9, icon: 'pycharm' },
-      { id: 10, icon: 'vim' },
-      { id: 11, icon: 'visualstudio' },
-      { id: 12, icon: 'cmake' },
-      { id: 13, icon: 'postman' },
-      { id: 14, icon: 'md' },
-      { id: 15, icon: 'opencv' },
-      { id: 16, icon: 'notion' }
+      { id: 7, icon: 'cmake' },
+      { id: 8, icon: 'postman' },
+      { id: 9, icon: 'md' },
+      { id: 10, icon: 'opencv' },
+      { id: 11, icon: 'notion' }
     ]
   },
   {
-    id: 9,
+    id: 10,
     title: 'Geomatics & GIS Tools',
     items: [
       { id: 1, icon: 'autocad' },
