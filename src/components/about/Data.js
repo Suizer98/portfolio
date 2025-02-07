@@ -96,7 +96,7 @@ export const Data = [
       { id: 2, icon: 'sublime' },
       { id: 3, icon: 'pycharm' },
       { id: 4, icon: 'vim' },
-      { id: 5, icon: 'visualstudio' },
+      { id: 5, icon: 'visualstudio' }
     ]
   },
   {
