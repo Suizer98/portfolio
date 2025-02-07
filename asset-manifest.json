@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9643055e.css",
-    "main.js": "/portfolio/static/js/main.730d562a.js",
+    "main.js": "/portfolio/static/js/main.ea0a688e.js",
     "static/css/198.ad537e6f.chunk.css": "/portfolio/static/css/198.ad537e6f.chunk.css",
     "static/js/198.e601a8ec.chunk.js": "/portfolio/static/js/198.e601a8ec.chunk.js",
     "static/css/828.85520232.chunk.css": "/portfolio/static/css/828.85520232.chunk.css",
-    "static/js/828.d5a5c070.chunk.js": "/portfolio/static/js/828.d5a5c070.chunk.js",
+    "static/js/828.2b776371.chunk.js": "/portfolio/static/js/828.2b776371.chunk.js",
     "static/css/154.dbab8719.chunk.css": "/portfolio/static/css/154.dbab8719.chunk.css",
-    "static/js/154.2229a8b6.chunk.js": "/portfolio/static/js/154.2229a8b6.chunk.js",
+    "static/js/154.6ee80f18.chunk.js": "/portfolio/static/js/154.6ee80f18.chunk.js",
     "static/js/989.d264ef10.chunk.js": "/portfolio/static/js/989.d264ef10.chunk.js",
     "static/media/weddinginv.PNG": "/portfolio/static/media/weddinginv.e0d15d1b911d81866fe3.PNG",
     "static/media/loveesri.PNG": "/portfolio/static/media/loveesri.bfbe2c1e566f6731ebce.PNG",
@@ -17,17 +17,17 @@
     "static/media/pythonanywhere.PNG": "/portfolio/static/media/pythonanywhere.23ab651218988a84c183.PNG",
     "index.html": "/portfolio/index.html",
     "main.9643055e.css.map": "/portfolio/static/css/main.9643055e.css.map",
-    "main.730d562a.js.map": "/portfolio/static/js/main.730d562a.js.map",
+    "main.ea0a688e.js.map": "/portfolio/static/js/main.ea0a688e.js.map",
     "198.ad537e6f.chunk.css.map": "/portfolio/static/css/198.ad537e6f.chunk.css.map",
     "198.e601a8ec.chunk.js.map": "/portfolio/static/js/198.e601a8ec.chunk.js.map",
     "828.85520232.chunk.css.map": "/portfolio/static/css/828.85520232.chunk.css.map",
-    "828.d5a5c070.chunk.js.map": "/portfolio/static/js/828.d5a5c070.chunk.js.map",
+    "828.2b776371.chunk.js.map": "/portfolio/static/js/828.2b776371.chunk.js.map",
     "154.dbab8719.chunk.css.map": "/portfolio/static/css/154.dbab8719.chunk.css.map",
-    "154.2229a8b6.chunk.js.map": "/portfolio/static/js/154.2229a8b6.chunk.js.map",
+    "154.6ee80f18.chunk.js.map": "/portfolio/static/js/154.6ee80f18.chunk.js.map",
     "989.d264ef10.chunk.js.map": "/portfolio/static/js/989.d264ef10.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9643055e.css",
-    "static/js/main.730d562a.js"
+    "static/js/main.ea0a688e.js"
   ]
 }
