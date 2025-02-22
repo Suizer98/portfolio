@@ -133,7 +133,7 @@ export const ExperiencesData = [
     period: '2022 - Present',
     title: 'National University of Singapore, Singapore',
     description1: '● Full Stack GIS Web Development',
-    description2: ' - React TypeScript, Zustand, Openlayer, OpenAPI',
+    description2: ' - React TS, Blueprintjs, Zustand, Openlayer, OpenAPI',
     description3: ' - Django Rest, Geoserver, PostgreSQL, Redis',
     description4: '● DevOps with Docker, GitLab CI/CD. Ansible',
     description5: '● Microsoft Azure (Singapore GCC Cloud)',
@@ -141,7 +141,7 @@ export const ExperiencesData = [
     description7: '● Window, Ubuntu and RHEL Administrations',
     description8: '● QGIS Plugin Developments with PyQt5',
     description9:
-      '● Involved in NUS research topics (GIS, Geomatics, Climate Change, Marine Science)'
+      '● Involved in TMSI research topics (GIS, Geomatics, Climate Change, Marine Science)'
   },
   {
     id: 2,
@@ -155,6 +155,6 @@ export const ExperiencesData = [
     description4:
       ' - Carried out post-processing, digitizing, and analysis of UAV, hydrography, stockpiles, 3D TLS point cloud data.',
     description5:
-      ' - Produced engineering plans such as detail survey, telecommunication tower radio range, underground cables using AutoCAD.'
+      ' - Produced engineering survey plans such as topographic detail survey, tele tower radio range, underground cables using AutoCAD.'
   }
 ]
