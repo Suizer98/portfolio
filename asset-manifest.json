@@ -1,15 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9643055e.css",
-    "main.js": "/portfolio/static/js/main.9443f0ee.js",
-    "static/css/198.ad537e6f.chunk.css": "/portfolio/static/css/198.ad537e6f.chunk.css",
-    "static/js/198.edf85301.chunk.js": "/portfolio/static/js/198.edf85301.chunk.js",
+    "main.js": "/portfolio/static/js/main.6bafcd57.js",
+    "static/css/297.618fb462.chunk.css": "/portfolio/static/css/297.618fb462.chunk.css",
+    "static/js/297.193004fe.chunk.js": "/portfolio/static/js/297.193004fe.chunk.js",
     "static/css/828.85520232.chunk.css": "/portfolio/static/css/828.85520232.chunk.css",
     "static/js/828.ef712566.chunk.js": "/portfolio/static/js/828.ef712566.chunk.js",
     "static/css/154.dbab8719.chunk.css": "/portfolio/static/css/154.dbab8719.chunk.css",
     "static/js/154.6ee80f18.chunk.js": "/portfolio/static/js/154.6ee80f18.chunk.js",
     "static/js/989.d264ef10.chunk.js": "/portfolio/static/js/989.d264ef10.chunk.js",
-    "static/media/weddinginv.PNG": "/portfolio/static/media/weddinginv.e0d15d1b911d81866fe3.PNG",
     "static/media/loveesri.PNG": "/portfolio/static/media/loveesri.bfbe2c1e566f6731ebce.PNG",
     "static/media/nextjsazure.PNG": "/portfolio/static/media/nextjsazure.2eff4424d34232d8311c.PNG",
     "static/media/deckglgis.PNG": "/portfolio/static/media/deckglgis.226a7f05cafca675e161.PNG",
@@ -17,9 +16,9 @@
     "static/media/pythonanywhere.PNG": "/portfolio/static/media/pythonanywhere.23ab651218988a84c183.PNG",
     "index.html": "/portfolio/index.html",
     "main.9643055e.css.map": "/portfolio/static/css/main.9643055e.css.map",
-    "main.9443f0ee.js.map": "/portfolio/static/js/main.9443f0ee.js.map",
-    "198.ad537e6f.chunk.css.map": "/portfolio/static/css/198.ad537e6f.chunk.css.map",
-    "198.edf85301.chunk.js.map": "/portfolio/static/js/198.edf85301.chunk.js.map",
+    "main.6bafcd57.js.map": "/portfolio/static/js/main.6bafcd57.js.map",
+    "297.618fb462.chunk.css.map": "/portfolio/static/css/297.618fb462.chunk.css.map",
+    "297.193004fe.chunk.js.map": "/portfolio/static/js/297.193004fe.chunk.js.map",
     "828.85520232.chunk.css.map": "/portfolio/static/css/828.85520232.chunk.css.map",
     "828.ef712566.chunk.js.map": "/portfolio/static/js/828.ef712566.chunk.js.map",
     "154.dbab8719.chunk.css.map": "/portfolio/static/css/154.dbab8719.chunk.css.map",
@@ -28,6 +27,6 @@
   },
   "entrypoints": [
     "static/css/main.9643055e.css",
-    "static/js/main.9443f0ee.js"
+    "static/js/main.6bafcd57.js"
   ]
 }
