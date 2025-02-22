@@ -79,79 +79,79 @@ export const projectsData = [
       }
     ]
   },
-  {
-    id: 2,
-    type: 'web',
-    img: weddinginv,
-    alt: 'Wedding Invitation App',
-    title: 'Wedding Invitation App',
-    description:
-      'Simple wedding invitation ecard demonstrated by light weights full stacks development (web tier, app tier, database tier)',
-    git: 'https://github.com/Suizer98/weddinginvitation',
-    demo: 'https://suizerlyciawedding.netlify.app/',
-    tech: [
-      {
-        id: 1,
-        color: 'green',
-        tech: 'Vite'
-      },
-      {
-        id: 2,
-        color: 'blue',
-        tech: 'TypeScript'
-      },
-      {
-        id: 3,
-        color: 'yellow',
-        tech: 'React'
-      },
-      {
-        id: 4,
-        color: 'green',
-        tech: 'FastAPI'
-      },
-      {
-        id: 5,
-        color: 'yellow',
-        tech: 'Python'
-      },
-      {
-        id: 6,
-        color: 'blue',
-        tech: 'Docker'
-      },
-      {
-        id: 7,
-        color: 'purple',
-        tech: 'Ubuntu'
-      },
-      {
-        id: 8,
-        color: 'green',
-        tech: 'Bash'
-      },
-      {
-        id: 9,
-        color: 'blue',
-        tech: 'Heroku'
-      },
-      {
-        id: 10,
-        color: 'green',
-        tech: 'Netlify'
-      },
-      {
-        id: 11,
-        color: 'blue',
-        tech: 'PostgreSQL'
-      },
-      {
-        id: 12,
-        color: 'yellow',
-        tech: 'Ant-D'
-      }
-    ]
-  },
+  // {
+  //   id: 2,
+  //   type: 'web',
+  //   img: weddinginv,
+  //   alt: 'Wedding Invitation App',
+  //   title: 'Wedding Invitation App',
+  //   description:
+  //     'Simple wedding invitation ecard demonstrated by light weights full stacks development (web tier, app tier, database tier)',
+  //   git: 'https://github.com/Suizer98/weddinginvitation',
+  //   demo: 'https://suizerlyciawedding.netlify.app/',
+  //   tech: [
+  //     {
+  //       id: 1,
+  //       color: 'green',
+  //       tech: 'Vite'
+  //     },
+  //     {
+  //       id: 2,
+  //       color: 'blue',
+  //       tech: 'TypeScript'
+  //     },
+  //     {
+  //       id: 3,
+  //       color: 'yellow',
+  //       tech: 'React'
+  //     },
+  //     {
+  //       id: 4,
+  //       color: 'green',
+  //       tech: 'FastAPI'
+  //     },
+  //     {
+  //       id: 5,
+  //       color: 'yellow',
+  //       tech: 'Python'
+  //     },
+  //     {
+  //       id: 6,
+  //       color: 'blue',
+  //       tech: 'Docker'
+  //     },
+  //     {
+  //       id: 7,
+  //       color: 'purple',
+  //       tech: 'Ubuntu'
+  //     },
+  //     {
+  //       id: 8,
+  //       color: 'green',
+  //       tech: 'Bash'
+  //     },
+  //     {
+  //       id: 9,
+  //       color: 'blue',
+  //       tech: 'Heroku'
+  //     },
+  //     {
+  //       id: 10,
+  //       color: 'green',
+  //       tech: 'Netlify'
+  //     },
+  //     {
+  //       id: 11,
+  //       color: 'blue',
+  //       tech: 'PostgreSQL'
+  //     },
+  //     {
+  //       id: 12,
+  //       color: 'yellow',
+  //       tech: 'Ant-D'
+  //     }
+  //   ]
+  // },
   {
     id: 3,
     type: 'web',
