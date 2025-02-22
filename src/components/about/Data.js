@@ -6,15 +6,16 @@ export const Data = [
       { id: 1, icon: 'ts' },
       { id: 2, icon: 'js' },
       { id: 3, icon: 'python' },
-      { id: 4, icon: 'css' },
-      { id: 5, icon: 'html' },
-      { id: 6, icon: 'matlab' },
-      { id: 7, icon: 'octave' },
-      { id: 8, icon: 'r' },
-      { id: 9, icon: 'kotlin' },
-      { id: 10, icon: 'cpp' },
-      { id: 11, icon: 'c' },
-      { id: 12, icon: 'go' }
+      { id: 4, icon: 'cs' },
+      { id: 5, icon: 'css' },
+      { id: 6, icon: 'html' },
+      { id: 7, icon: 'matlab' },
+      { id: 8, icon: 'go' },
+      { id: 9, icon: 'octave' },
+      { id: 10, icon: 'r' },
+      { id: 11, icon: 'kotlin' },
+      { id: 12, icon: 'cpp' },
+      { id: 13, icon: 'c' }
     ]
   },
   {
