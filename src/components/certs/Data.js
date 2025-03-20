@@ -120,6 +120,16 @@ export const Data = [
 
 export const ExperiencesData = [
   {
+    role: 'ArcGIS Pro: Essential Workflows',
+    period: 'ESRI',
+    description1: 'https://drive.google.com/file/d/1QZ40Vz2Ix_mtvXVhQgf1EveyStYBcLbG/view'
+  },
+  {
+    role: 'Getting Started with ArcGIS Pro',
+    period: 'ESRI',
+    description1: 'https://drive.google.com/file/d/1sOH6GH0VmfEaaSiYRFlmDtDqfQauWjuq/view'
+  },
+  {
     role: 'Data or Specimens Only Research - Basic/Refresher',
     period: 'CITI Program',
     description1:
