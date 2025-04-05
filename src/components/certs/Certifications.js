@@ -1,7 +1,7 @@
 import '../../Colors.css'
 import classes from './About.module.css'
 
-function Experiences({ role, title, period, ...descriptions }) {
+function Certifications({ role, title, period, ...descriptions }) {
   const renderDescription = (url) => (
     <p className={classes.experienceItem} key={url}>
       <a href={url} target="_blank" rel="noopener noreferrer" style={{ color: 'white' }}>
@@ -24,4 +24,4 @@ function Experiences({ role, title, period, ...descriptions }) {
   )
 }
 
-export default Experiences
+export default Certifications

@@ -1,9 +1,8 @@
 import classes from './About.module.css'
-import { Data, ExperiencesData } from './Data'
-import Experiences from './Experiences'
-import Item from './Item'
+import Certifications from './Certifications'
+import { CertificationsData } from './Data'
 
-function About() {
+function Certs() {
   return (
     <section className={classes.about}>
       <h2>Certifications</h2>
@@ -12,8 +11,8 @@ function About() {
         expertise in GIS, marine sciences, and related scientific domains.
       </p> */}
 
-      {ExperiencesData.map((el) => (
-        <Experiences key={el.id} title={el.title} {...el} />
+      {CertificationsData.map((el) => (
+        <Certifications key={el.id} title={el.title} {...el} />
       ))}
 
       {/* {Data.map((el) => (
@@ -23,4 +22,4 @@ function About() {
   )
 }
 
-export default About
+export default Certs

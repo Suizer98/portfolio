@@ -14,12 +14,12 @@ function About() {
         conducting researches under NUS coverages.
       </p>
 
-      {ExperiencesData.map((el) => (
-        <Experiences key={el.id} title={el.title} {...el} />
+      {ExperiencesData.map((el, index) => (
+        <Experiences key={index} title={el.title} {...el} />
       ))}
 
-      {Data.map((el) => (
-        <Item key={el.id} title={el.title} items={el.items} />
+      {Data.map((el, index) => (
+        <Item key={index} title={el.title} items={el.items} />
       ))}
     </section>
   )
