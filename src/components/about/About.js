@@ -10,8 +10,8 @@ function About() {
       <p className={classes.text}>
         Not just a typical software engineer proficients in the latest stacks; but also possess
         expertise in GIS, marine sciences, and related scientific domains. Having experiences
-        collaborating with scientists and engineers worldwide, I excel in managing GIS webpages and
-        conducting researches under NUS coverages.
+        collaborating with scientists and engineers worldwide, I excel in developing GIS web services
+        and challenges
       </p>
 
       {ExperiencesData.map((el, index) => (
