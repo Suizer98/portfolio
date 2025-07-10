@@ -1,7 +1,7 @@
 import '../../Colors.css'
 import classes from './About.module.css'
 
-function Certifications({ role, title, period, ...descriptions }) {
+function Certifications({ name, title, distributor, credential, ...descriptions }) {
   const renderDescription = (url) => (
     <p className={classes.experienceItem} key={url}>
       <a href={url} target="_blank" rel="noopener noreferrer" style={{ color: 'white' }}>
@@ -14,8 +14,9 @@ function Certifications({ role, title, period, ...descriptions }) {
     <section className={classes.experiences}>
       <div className={classes.experienceTitle}>
         <h5>{title}</h5>
-        <h7>{role}</h7>
-        <h6>{period}</h6>
+        <h7>{name}</h7>
+        <h6>{distributor}</h6>
+        {credential && renderDescription(credential)}
         {Object.keys(descriptions)
           .filter((key) => key.startsWith('description'))
           .map((key) => renderDescription(descriptions[key]))}
