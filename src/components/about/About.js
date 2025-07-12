@@ -9,9 +9,9 @@ function About() {
       <h2>About me</h2>
       <p className={classes.text}>
         Not just a typical software engineer proficients in the latest stacks; but also possess
-        expertise in GIS, marine sciences, and related scientific domains. Having experiences
+        knowledges in GIS, marine sciences, and related scientific domains. Having experiences
         collaborating with scientists and engineers worldwide, I excel in developing GIS web
-        services and challenges
+        services and challenges.
       </p>
 
       {ExperiencesData.map((el, index) => (
