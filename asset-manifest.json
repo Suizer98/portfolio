@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.02d0629c.css",
-    "main.js": "/portfolio/static/js/main.9edd0486.js",
+    "main.js": "/portfolio/static/js/main.15ed1a89.js",
     "static/css/307.d7e0fb52.chunk.css": "/portfolio/static/css/307.d7e0fb52.chunk.css",
     "static/js/307.56ab6444.chunk.js": "/portfolio/static/js/307.56ab6444.chunk.js",
     "static/css/126.cd8b92fa.chunk.css": "/portfolio/static/css/126.cd8b92fa.chunk.css",
     "static/js/126.8b775893.chunk.js": "/portfolio/static/js/126.8b775893.chunk.js",
     "static/css/84.094e45b3.chunk.css": "/portfolio/static/css/84.094e45b3.chunk.css",
-    "static/js/84.54e3643c.chunk.js": "/portfolio/static/js/84.54e3643c.chunk.js",
+    "static/js/84.b5444b8d.chunk.js": "/portfolio/static/js/84.b5444b8d.chunk.js",
     "static/js/213.773f99a8.chunk.js": "/portfolio/static/js/213.773f99a8.chunk.js",
     "static/media/loveesri.PNG": "/portfolio/static/media/loveesri.bfbe2c1e566f6731ebce.PNG",
     "static/media/nextjsazure.PNG": "/portfolio/static/media/nextjsazure.2eff4424d34232d8311c.PNG",
@@ -16,17 +16,17 @@
     "static/media/pythonanywhere.PNG": "/portfolio/static/media/pythonanywhere.23ab651218988a84c183.PNG",
     "index.html": "/portfolio/index.html",
     "main.02d0629c.css.map": "/portfolio/static/css/main.02d0629c.css.map",
-    "main.9edd0486.js.map": "/portfolio/static/js/main.9edd0486.js.map",
+    "main.15ed1a89.js.map": "/portfolio/static/js/main.15ed1a89.js.map",
     "307.d7e0fb52.chunk.css.map": "/portfolio/static/css/307.d7e0fb52.chunk.css.map",
     "307.56ab6444.chunk.js.map": "/portfolio/static/js/307.56ab6444.chunk.js.map",
     "126.cd8b92fa.chunk.css.map": "/portfolio/static/css/126.cd8b92fa.chunk.css.map",
     "126.8b775893.chunk.js.map": "/portfolio/static/js/126.8b775893.chunk.js.map",
     "84.094e45b3.chunk.css.map": "/portfolio/static/css/84.094e45b3.chunk.css.map",
-    "84.54e3643c.chunk.js.map": "/portfolio/static/js/84.54e3643c.chunk.js.map",
+    "84.b5444b8d.chunk.js.map": "/portfolio/static/js/84.b5444b8d.chunk.js.map",
     "213.773f99a8.chunk.js.map": "/portfolio/static/js/213.773f99a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02d0629c.css",
-    "static/js/main.9edd0486.js"
+    "static/js/main.15ed1a89.js"
   ]
 }
