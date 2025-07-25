@@ -1,5 +1,11 @@
 export const CertificationsData = [
   {
+    name: 'MySQL 8.0 Database Developer Oracle Certified Professional',
+    distributor: 'Oracle',
+    credential:
+      'https://catalog-education.oracle.com/pls/certview/sharebadge?id=FCE4E5C333F1AB52E9942A184357091CCDA3C9261FD253C5CF7703B558E42360'
+  },
+  {
     name: 'MySQL Implementation Certified Associate',
     distributor: 'Oracle',
     credential:
