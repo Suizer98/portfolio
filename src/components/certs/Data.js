@@ -6,6 +6,18 @@ export const CertificationsData = [
       'https://catalog-education.oracle.com/pls/certview/sharebadge?id=FCE4E5C333F1AB52E9942A184357091CCDA3C9261FD253C5CF7703B558E42360'
   },
   {
+    name: 'Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate',
+    distributor: 'Oracle',
+    credential:
+      'https://catalog-education.oracle.com/pls/certview/sharebadge?id=77C4F7C373BDF4E30D75DEDE9EC46DF40A9D3F5332BAF6B0B866EF7FC18845EB'
+  },
+  {
+    name: 'Oracle Cloud Infrastructure 2025 Certified Foundations Associate',
+    distributor: 'Oracle',
+    credential:
+      'https://catalog-education.oracle.com/pls/certview/sharebadge?id=7D5920F6D1F1C3454E5160B40CA397E9B62AE7BD8ECF028FE8CE7F3210C09A92'
+  },
+  {
     name: 'MySQL Implementation Certified Associate',
     distributor: 'Oracle',
     credential:
