@@ -11,7 +11,7 @@ function About() {
         Not just a typical software engineer proficients in the latest stacks; but also possess
         knowledges in GIS, marine sciences, and related scientific domains. Having experiences
         collaborating with scientists and engineers worldwide, I excel in developing GIS web
-        services and challenges.
+        services and solving challenges.
       </p>
 
       {ExperiencesData.map((el, index) => (

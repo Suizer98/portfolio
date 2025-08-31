@@ -96,7 +96,6 @@ export const Data = [
       { icon: 'cmake' },
       { icon: 'postman' },
       { icon: 'md' },
-      { icon: 'opencv' },
       { icon: 'notion' }
     ]
   },
@@ -109,7 +108,12 @@ export const Data = [
 export const ExperiencesData = [
   {
     role: 'Software Engineer',
-    period: '2022 - Present',
+    period: '2025 - Present',
+    title: 'Esri Singapore, Singapore'
+  },
+  {
+    role: 'Software Engineer',
+    period: '2022 - 2025',
     title: 'National University of Singapore, Singapore',
     description1: '● Full Stack GIS Web Development',
     description2: ' - React TS, Blueprintjs, Zustand, Openlayer, OpenAPI',
