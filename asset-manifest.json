@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.02d0629c.css",
-    "main.js": "/portfolio/static/js/main.baa25caa.js",
-    "static/css/307.d7e0fb52.chunk.css": "/portfolio/static/css/307.d7e0fb52.chunk.css",
-    "static/js/307.7afad416.chunk.js": "/portfolio/static/js/307.7afad416.chunk.js",
+    "main.js": "/portfolio/static/js/main.b8ff7363.js",
+    "static/css/420.c367a2bb.chunk.css": "/portfolio/static/css/420.c367a2bb.chunk.css",
+    "static/js/420.7fd5824c.chunk.js": "/portfolio/static/js/420.7fd5824c.chunk.js",
     "static/css/126.cd8b92fa.chunk.css": "/portfolio/static/css/126.cd8b92fa.chunk.css",
     "static/js/126.a22813cc.chunk.js": "/portfolio/static/js/126.a22813cc.chunk.js",
     "static/css/84.094e45b3.chunk.css": "/portfolio/static/css/84.094e45b3.chunk.css",
@@ -14,11 +14,12 @@
     "static/media/deckglgis.PNG": "/portfolio/static/media/deckglgis.226a7f05cafca675e161.PNG",
     "static/media/leaflet.PNG": "/portfolio/static/media/leaflet.3960fc75c52f48529e8f.PNG",
     "static/media/pythonanywhere.PNG": "/portfolio/static/media/pythonanywhere.23ab651218988a84c183.PNG",
+    "static/media/matlab.jpg": "/portfolio/static/media/matlab.c66d7672f47f0fac37d2.jpg",
     "index.html": "/portfolio/index.html",
     "main.02d0629c.css.map": "/portfolio/static/css/main.02d0629c.css.map",
-    "main.baa25caa.js.map": "/portfolio/static/js/main.baa25caa.js.map",
-    "307.d7e0fb52.chunk.css.map": "/portfolio/static/css/307.d7e0fb52.chunk.css.map",
-    "307.7afad416.chunk.js.map": "/portfolio/static/js/307.7afad416.chunk.js.map",
+    "main.b8ff7363.js.map": "/portfolio/static/js/main.b8ff7363.js.map",
+    "420.c367a2bb.chunk.css.map": "/portfolio/static/css/420.c367a2bb.chunk.css.map",
+    "420.7fd5824c.chunk.js.map": "/portfolio/static/js/420.7fd5824c.chunk.js.map",
     "126.cd8b92fa.chunk.css.map": "/portfolio/static/css/126.cd8b92fa.chunk.css.map",
     "126.a22813cc.chunk.js.map": "/portfolio/static/js/126.a22813cc.chunk.js.map",
     "84.094e45b3.chunk.css.map": "/portfolio/static/css/84.094e45b3.chunk.css.map",
@@ -27,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.02d0629c.css",
-    "static/js/main.baa25caa.js"
+    "static/js/main.b8ff7363.js"
   ]
 }
