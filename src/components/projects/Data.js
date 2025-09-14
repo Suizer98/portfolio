@@ -1,6 +1,7 @@
 import deckglgis from './img/deckglgis.PNG'
 import leaflet from './img/leaflet.PNG'
 import loveesri from './img/loveesri.PNG'
+import matlab from './img/matlab.jpg'
 import nextjsazure from './img/nextjsazure.PNG'
 import pythonanywhere from './img/pythonanywhere.PNG'
 
@@ -313,6 +314,50 @@ export const projectsData = [
       {
         color: 'blue',
         tech: 'pythonanywhere'
+      }
+    ]
+  },
+  {
+    type: 'web',
+    img: matlab,
+    alt: 'Image of MATLAB Satellite Orbit Computation project',
+    title: 'MATLAB Satellite Orbit Computation',
+    description:
+      'Orbit computation of satellites coordinates using MATLAB. Using RINEX data acquired from GPS receiver through satellites signals, created functions to extract numerical data from RINEX files, converted them into 3D Cartesian coordinates, then visualised their orbits in figure.',
+    git: 'https://github.com/Suizer98/rinexpos',
+    demo: 'https://github.com/Suizer98/rinexpos',
+    tech: [
+      {
+        color: 'blue',
+        tech: 'MATLAB'
+      },
+      {
+        color: 'green',
+        tech: 'RINEX'
+      },
+      {
+        color: 'purple',
+        tech: 'GPS'
+      },
+      {
+        color: 'yellow',
+        tech: 'Satellite'
+      },
+      {
+        color: 'red',
+        tech: 'Orbit Computation'
+      },
+      {
+        color: 'blue',
+        tech: '3D Visualization'
+      },
+      {
+        color: 'green',
+        tech: 'Cartesian Coordinates'
+      },
+      {
+        color: 'purple',
+        tech: 'GNSS'
       }
     ]
   }
