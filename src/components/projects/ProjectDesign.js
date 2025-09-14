@@ -27,9 +27,9 @@ function ProjectDesign({ img, alt, title, software, link, description }) {
         <h3>{title}</h3>
         <p className={classes.description}>{description}</p>
         <ul className={classes.list}>
-          {software.map((el) => {
+          {software.map((el, index) => {
             return (
-              <li key={el.id} className={el.color}>
+              <li key={index} className={el.color}>
                 {el.software}
               </li>
             )

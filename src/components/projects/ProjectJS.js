@@ -46,8 +46,8 @@ function ProjectJS({ img, alt, title, git, demo, tech, description }) {
         <h3>{title}</h3>
         <p className={classes.description}>{description}</p>
         <ul className={classes.list}>
-          {tech.map((el) => (
-            <li key={el.id} className={el.color}>
+          {tech.map((el, index) => (
+            <li key={index} className={el.color}>
               {el.tech}
             </li>
           ))}

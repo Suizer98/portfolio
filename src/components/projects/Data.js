@@ -8,7 +8,6 @@ import pythonanywhere from './img/pythonanywhere.PNG'
 
 export const projectsData = [
   {
-    id: 1,
     type: 'web',
     img: loveesri,
     alt: 'Image of Love ESRI project',
@@ -19,69 +18,56 @@ export const projectsData = [
     demo: 'https://loveesri.netlify.app/',
     tech: [
       {
-        id: 1,
         color: 'green',
         tech: 'Vite'
       },
       {
-        id: 2,
         color: 'blue',
         tech: 'TypeScript'
       },
       {
-        id: 3,
         color: 'purple',
         tech: 'React'
       },
       {
-        id: 4,
         color: 'yellow',
         tech: 'TailwindCSS'
       },
       {
-        id: 5,
         color: 'blue',
         tech: 'CSS'
       },
       {
-        id: 6,
         color: 'red',
         tech: 'HTML'
       },
       {
-        id: 7,
         color: 'yellow',
         tech: 'Docker'
       },
       {
-        id: 8,
         color: 'green',
         tech: 'Ubuntu'
       },
       {
-        id: 9,
         color: 'purple',
         tech: 'Bash'
       },
       {
-        id: 10,
         color: 'blue',
         tech: 'NPM'
       },
       {
-        id: 11,
         color: 'green',
         tech: 'Netlify'
       },
       {
-        id: 12,
         color: 'blue',
         tech: 'Chakra-UI'
       }
     ]
   },
   {
-    id: 2,
     type: 'web',
     img: deckglgis,
     alt: 'Image of DeckGLGIS project',
@@ -92,62 +78,50 @@ export const projectsData = [
     demo: 'https://github.com/Suizer98/DeckGLGIS',
     tech: [
       {
-        id: 1,
         color: 'green',
         tech: 'Vite'
       },
       {
-        id: 2,
         color: 'blue',
         tech: 'TypeScript'
       },
       {
-        id: 3,
         color: 'purple',
         tech: 'React'
       },
       {
-        id: 4,
         color: 'yellow',
         tech: 'TailwindCSS'
       },
       {
-        id: 5,
         color: 'blue',
         tech: 'CSS'
       },
       {
-        id: 6,
         color: 'red',
         tech: 'HTML'
       },
       {
-        id: 7,
         color: 'yellow',
         tech: 'Docker'
       },
       {
-        id: 8,
         color: 'green',
         tech: 'Ubuntu'
       },
       {
-        id: 9,
         color: 'purple',
         tech: 'Bash'
       },
       {
-        id: 10,
         color: 'blue',
         tech: 'NPM'
       },
       {
-        id: 11,
         color: 'green',
         tech: 'Django'
       },
       {
-        id: 12,
         color: 'blue',
         tech: 'Chakra-UI'
       }
@@ -227,7 +201,6 @@ export const projectsData = [
   //   ]
   // },
   {
-    id: 3,
     type: 'web',
     img: nextjsazure,
     alt: 'Image of Next.js App for Azure project',
@@ -238,49 +211,40 @@ export const projectsData = [
     demo: 'https://nextjsazure.vercel.app/',
     tech: [
       {
-        id: 1,
         color: 'blue',
         tech: 'Next.js'
       },
       {
-        id: 2,
         color: 'green',
         tech: 'TypeScript'
       },
       {
-        id: 3,
         color: 'yellow',
         tech: 'OpenLayers'
       },
       {
-        id: 4,
         color: 'purple',
         tech: 'Docker'
       },
       {
-        id: 5,
         color: 'blue',
         tech: 'Azure'
       },
       {
-        id: 6,
         color: 'red',
         tech: 'SQL Server'
       },
       {
-        id: 7,
         color: 'green',
         tech: 'Vercel'
       },
       {
-        id: 8,
         color: 'purple',
         tech: 'GitHub Actions'
       }
     ]
   },
   {
-    id: 4,
     type: 'web',
     img: leaflet,
     alt: 'Image of Mapdemo project',
@@ -291,34 +255,28 @@ export const projectsData = [
     demo: 'https://suizer98.github.io/mapdemo/',
     tech: [
       {
-        id: 1,
         color: 'green',
         tech: 'Leaftletjs'
       },
       {
-        id: 2,
         color: 'blue',
         tech: 'JS'
       },
       {
-        id: 3,
         color: 'yellow',
         tech: 'CSS'
       },
       {
-        id: 4,
         color: 'red',
         tech: 'HTML'
       },
       {
-        id: 5,
         color: 'purple',
         tech: 'GitHub Actions'
       }
     ]
   },
   {
-    id: 5,
     type: 'web',
     img: pythonanywhere,
     alt: 'Image of DjangoGIS project',
@@ -329,37 +287,30 @@ export const projectsData = [
     demo: 'http://tey.pythonanywhere.com/',
     tech: [
       {
-        id: 1,
         color: 'green',
         tech: 'Django'
       },
       {
-        id: 2,
         color: 'blue',
         tech: 'Sqlite3'
       },
       {
-        id: 3,
         color: 'yellow',
         tech: 'JS'
       },
       {
-        id: 4,
         color: 'blue',
         tech: 'CSS'
       },
       {
-        id: 5,
         color: 'red',
         tech: 'HTML'
       },
       {
-        id: 6,
         color: 'purple',
         tech: 'openrouteservice'
       },
       {
-        id: 7,
         color: 'blue',
         tech: 'pythonanywhere'
       }

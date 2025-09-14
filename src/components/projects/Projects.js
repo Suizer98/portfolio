@@ -8,11 +8,11 @@ function Projects() {
     <section className={classes.projects}>
       <h2 className={classes.header}>My personal projects</h2>
       <figure className={classes.workItems}>
-        {projectsData.map((project) => {
+        {projectsData.map((project, index) => {
           if (project.type === 'web') {
             return (
               <ProjectJS
-                key={project.id}
+                key={index}
                 img={project.img}
                 alt={project.alt}
                 title={project.title}
@@ -25,7 +25,7 @@ function Projects() {
           } else if (project.type === 'design') {
             return (
               <ProjectDesign
-                key={project.id}
+                key={index}
                 img={project.img}
                 alt={project.alt}
                 title={project.title}
