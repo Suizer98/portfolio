@@ -1,3 +1,4 @@
+import arcgisjsai from './img/arcgisjsai.png'
 import deckglgis from './img/deckglgis.PNG'
 import leaflet from './img/leaflet.PNG'
 import loveesri from './img/loveesri.PNG'
@@ -8,6 +9,50 @@ import pythonanywhere from './img/pythonanywhere.PNG'
 // import weddinginv from './img/weddinginv.PNG'
 
 export const projectsData = [
+  {
+    type: 'web',
+    img: arcgisjsai,
+    alt: 'Image of ArcGIS JS + AI project',
+    title: 'ArcGIS JS + AI',
+    description:
+      'A proof-of-concept Svelte project demonstrating AI-powered control of ArcGIS JS SDK widgets. Users can interact with maps through natural language commands for navigation, drawing, and spatial analysis.',
+    git: 'https://github.com/Suizer98/arcgisjsai',
+    demo: 'https://arcgisjsai.netlify.app/',
+    tech: [
+      {
+        color: 'blue',
+        tech: 'Svelte'
+      },
+      {
+        color: 'green',
+        tech: 'ArcGIS JS SDK'
+      },
+      {
+        color: 'purple',
+        tech: 'AI/ML'
+      },
+      {
+        color: 'yellow',
+        tech: 'Natural Language Processing'
+      },
+      {
+        color: 'red',
+        tech: 'JavaScript'
+      },
+      {
+        color: 'blue',
+        tech: 'GIS'
+      },
+      {
+        color: 'green',
+        tech: 'Interactive Maps'
+      },
+      {
+        color: 'purple',
+        tech: 'Web Development'
+      }
+    ]
+  },
   {
     type: 'web',
     img: loveesri,
