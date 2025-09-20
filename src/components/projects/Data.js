@@ -1,5 +1,6 @@
 import arcgisjsai from './img/arcgisjsai.png'
 import deckglgis from './img/deckglgis.PNG'
+import dockerarcgis from './img/dockerarcgis5.png'
 import leaflet from './img/leaflet.PNG'
 import loveesri from './img/loveesri.PNG'
 import matlab from './img/matlab.jpg'
@@ -50,6 +51,50 @@ export const projectsData = [
       {
         color: 'purple',
         tech: 'Web Development'
+      }
+    ]
+  },
+  {
+    type: 'system',
+    img: dockerarcgis,
+    alt: 'Image of Docker ArcGIS Enterprise AI project',
+    title: 'Docker ArcGIS Enterprise AI',
+    description:
+      'Extends docker-arcgis-enterprise with AI capabilities, enabling natural language queries to ArcGIS services through LangChain and MCP powered by FastAPI.',
+    git: 'https://github.com/Suizer98/docker-arcgis-enterprise-ai',
+    demo: 'https://github.com/Suizer98/docker-arcgis-enterprise-ai',
+    tech: [
+      {
+        color: 'blue',
+        tech: 'Docker'
+      },
+      {
+        color: 'green',
+        tech: 'ArcGIS Enterprise'
+      },
+      {
+        color: 'purple',
+        tech: 'FastAPI'
+      },
+      {
+        color: 'yellow',
+        tech: 'LangChain'
+      },
+      {
+        color: 'red',
+        tech: 'MCP'
+      },
+      {
+        color: 'blue',
+        tech: 'Python'
+      },
+      {
+        color: 'green',
+        tech: 'AI/ML'
+      },
+      {
+        color: 'purple',
+        tech: 'Natural Language Processing'
       }
     ]
   },
@@ -363,7 +408,7 @@ export const projectsData = [
     ]
   },
   {
-    type: 'web',
+    type: 'data',
     img: matlab,
     alt: 'Image of MATLAB Satellite Orbit Computation project',
     title: 'MATLAB Satellite Orbit Computation',
