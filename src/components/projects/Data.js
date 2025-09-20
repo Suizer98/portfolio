@@ -18,7 +18,7 @@ export const projectsData = [
     description:
       'A proof-of-concept Svelte project demonstrating AI-powered control of ArcGIS JS SDK widgets. Users can interact with maps through natural language commands for navigation, drawing, and spatial analysis.',
     git: 'https://github.com/Suizer98/arcgisjsai',
-    demo: 'https://arcgisjsai.netlify.app/',
+    demo: 'https://arcgisjs-ai.vercel.app/',
     tech: [
       {
         color: 'blue',
