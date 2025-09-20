@@ -9,7 +9,7 @@ function Projects() {
       <h2 className={classes.header}>My personal projects</h2>
       <figure className={classes.workItems}>
         {projectsData.map((project, index) => {
-          if (project.type === 'web') {
+          if (project.type === 'web' || project.type === 'system' || project.type === 'data') {
             return (
               <ProjectJS
                 key={index}
