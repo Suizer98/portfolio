@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.02d0629c.css",
-    "main.js": "/portfolio/static/js/main.185f185e.js",
+    "main.js": "/portfolio/static/js/main.ba0ef025.js",
     "static/css/683.8a99c584.chunk.css": "/portfolio/static/css/683.8a99c584.chunk.css",
     "static/js/683.a0a019ed.chunk.js": "/portfolio/static/js/683.a0a019ed.chunk.js",
     "static/css/126.cd8b92fa.chunk.css": "/portfolio/static/css/126.cd8b92fa.chunk.css",
     "static/js/126.a22813cc.chunk.js": "/portfolio/static/js/126.a22813cc.chunk.js",
     "static/css/84.094e45b3.chunk.css": "/portfolio/static/css/84.094e45b3.chunk.css",
-    "static/js/84.b5444b8d.chunk.js": "/portfolio/static/js/84.b5444b8d.chunk.js",
+    "static/js/84.54e3643c.chunk.js": "/portfolio/static/js/84.54e3643c.chunk.js",
     "static/js/213.773f99a8.chunk.js": "/portfolio/static/js/213.773f99a8.chunk.js",
     "static/media/loveesri.PNG": "/portfolio/static/media/loveesri.bfbe2c1e566f6731ebce.PNG",
     "static/media/nextjsazure.PNG": "/portfolio/static/media/nextjsazure.2eff4424d34232d8311c.PNG",
@@ -19,17 +19,17 @@
     "static/media/matlab.jpg": "/portfolio/static/media/matlab.c66d7672f47f0fac37d2.jpg",
     "index.html": "/portfolio/index.html",
     "main.02d0629c.css.map": "/portfolio/static/css/main.02d0629c.css.map",
-    "main.185f185e.js.map": "/portfolio/static/js/main.185f185e.js.map",
+    "main.ba0ef025.js.map": "/portfolio/static/js/main.ba0ef025.js.map",
     "683.8a99c584.chunk.css.map": "/portfolio/static/css/683.8a99c584.chunk.css.map",
     "683.a0a019ed.chunk.js.map": "/portfolio/static/js/683.a0a019ed.chunk.js.map",
     "126.cd8b92fa.chunk.css.map": "/portfolio/static/css/126.cd8b92fa.chunk.css.map",
     "126.a22813cc.chunk.js.map": "/portfolio/static/js/126.a22813cc.chunk.js.map",
     "84.094e45b3.chunk.css.map": "/portfolio/static/css/84.094e45b3.chunk.css.map",
-    "84.b5444b8d.chunk.js.map": "/portfolio/static/js/84.b5444b8d.chunk.js.map",
+    "84.54e3643c.chunk.js.map": "/portfolio/static/js/84.54e3643c.chunk.js.map",
     "213.773f99a8.chunk.js.map": "/portfolio/static/js/213.773f99a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02d0629c.css",
-    "static/js/main.185f185e.js"
+    "static/js/main.ba0ef025.js"
   ]
 }
