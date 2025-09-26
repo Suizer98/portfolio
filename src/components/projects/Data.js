@@ -1,9 +1,9 @@
 import arcgisjsai from './img/arcgisjsai.png'
+import matlab from './img/chur1610_python.png'
 import deckglgis from './img/deckglgis.PNG'
 import dockerarcgis from './img/dockerarcgis15.png'
 import leaflet from './img/leaflet.PNG'
 import loveesri from './img/loveesri.PNG'
-import matlab from './img/chur1610_python.png'
 import nextjsazure from './img/nextjsazure.PNG'
 import pythonanywhere from './img/pythonanywhere.PNG'
 
