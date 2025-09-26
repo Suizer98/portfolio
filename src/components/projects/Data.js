@@ -1,9 +1,9 @@
 import arcgisjsai from './img/arcgisjsai.png'
 import deckglgis from './img/deckglgis.PNG'
-import dockerarcgis from './img/dockerarcgis5.png'
+import dockerarcgis from './img/dockerarcgis15.png'
 import leaflet from './img/leaflet.PNG'
 import loveesri from './img/loveesri.PNG'
-import matlab from './img/matlab.jpg'
+import matlab from './img/chur1610_python.png'
 import nextjsazure from './img/nextjsazure.PNG'
 import pythonanywhere from './img/pythonanywhere.PNG'
 
@@ -30,27 +30,19 @@ export const projectsData = [
       },
       {
         color: 'purple',
-        tech: 'AI/ML'
+        tech: 'OpenAI API'
       },
       {
         color: 'yellow',
-        tech: 'Natural Language Processing'
-      },
-      {
-        color: 'red',
         tech: 'JavaScript'
       },
       {
+        color: 'red',
+        tech: 'HTML'
+      },
+      {
         color: 'blue',
-        tech: 'GIS'
-      },
-      {
-        color: 'green',
-        tech: 'Interactive Maps'
-      },
-      {
-        color: 'purple',
-        tech: 'Web Development'
+        tech: 'CSS'
       }
     ]
   },
@@ -82,19 +74,11 @@ export const projectsData = [
       },
       {
         color: 'red',
-        tech: 'MCP'
-      },
-      {
-        color: 'blue',
         tech: 'Python'
       },
       {
-        color: 'green',
-        tech: 'AI/ML'
-      },
-      {
-        color: 'purple',
-        tech: 'Natural Language Processing'
+        color: 'blue',
+        tech: 'OpenAI API'
       }
     ]
   },
@@ -431,23 +415,11 @@ export const projectsData = [
       },
       {
         color: 'yellow',
-        tech: 'Satellite'
+        tech: 'GNSS'
       },
       {
         color: 'red',
-        tech: 'Orbit Computation'
-      },
-      {
-        color: 'blue',
-        tech: '3D Visualization'
-      },
-      {
-        color: 'green',
-        tech: 'Cartesian Coordinates'
-      },
-      {
-        color: 'purple',
-        tech: 'GNSS'
+        tech: 'Python'
       }
     ]
   }
