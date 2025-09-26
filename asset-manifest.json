@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.02d0629c.css",
-    "main.js": "/portfolio/static/js/main.990b8382.js",
+    "main.js": "/portfolio/static/js/main.d48ddff1.js",
     "static/css/443.9aeef4c3.chunk.css": "/portfolio/static/css/443.9aeef4c3.chunk.css",
-    "static/js/443.61f63db4.chunk.js": "/portfolio/static/js/443.61f63db4.chunk.js",
+    "static/js/443.4a320ed7.chunk.js": "/portfolio/static/js/443.4a320ed7.chunk.js",
     "static/css/126.cd8b92fa.chunk.css": "/portfolio/static/css/126.cd8b92fa.chunk.css",
     "static/js/126.a22813cc.chunk.js": "/portfolio/static/js/126.a22813cc.chunk.js",
     "static/css/84.094e45b3.chunk.css": "/portfolio/static/css/84.094e45b3.chunk.css",
@@ -12,16 +12,16 @@
     "static/media/loveesri.PNG": "/portfolio/static/media/loveesri.bfbe2c1e566f6731ebce.PNG",
     "static/media/nextjsazure.PNG": "/portfolio/static/media/nextjsazure.2eff4424d34232d8311c.PNG",
     "static/media/chur1610_python.png": "/portfolio/static/media/chur1610_python.0b8e4344a2bcf24c3c41.png",
-    "static/media/arcgisjsai.png": "/portfolio/static/media/arcgisjsai.7cd81faaa572eda93a59.png",
     "static/media/deckglgis.PNG": "/portfolio/static/media/deckglgis.226a7f05cafca675e161.PNG",
+    "static/media/arcgisjsai.png": "/portfolio/static/media/arcgisjsai.3155b0f70688b0aa24cd.png",
     "static/media/dockerarcgis15.png": "/portfolio/static/media/dockerarcgis15.bb5813b687e99fdb984a.png",
     "static/media/leaflet.PNG": "/portfolio/static/media/leaflet.3960fc75c52f48529e8f.PNG",
     "static/media/pythonanywhere.PNG": "/portfolio/static/media/pythonanywhere.23ab651218988a84c183.PNG",
     "index.html": "/portfolio/index.html",
     "main.02d0629c.css.map": "/portfolio/static/css/main.02d0629c.css.map",
-    "main.990b8382.js.map": "/portfolio/static/js/main.990b8382.js.map",
+    "main.d48ddff1.js.map": "/portfolio/static/js/main.d48ddff1.js.map",
     "443.9aeef4c3.chunk.css.map": "/portfolio/static/css/443.9aeef4c3.chunk.css.map",
-    "443.61f63db4.chunk.js.map": "/portfolio/static/js/443.61f63db4.chunk.js.map",
+    "443.4a320ed7.chunk.js.map": "/portfolio/static/js/443.4a320ed7.chunk.js.map",
     "126.cd8b92fa.chunk.css.map": "/portfolio/static/css/126.cd8b92fa.chunk.css.map",
     "126.a22813cc.chunk.js.map": "/portfolio/static/js/126.a22813cc.chunk.js.map",
     "84.094e45b3.chunk.css.map": "/portfolio/static/css/84.094e45b3.chunk.css.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.02d0629c.css",
-    "static/js/main.990b8382.js"
+    "static/js/main.d48ddff1.js"
   ]
 }
