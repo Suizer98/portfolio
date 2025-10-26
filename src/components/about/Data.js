@@ -116,7 +116,7 @@ export const ExperiencesData = [
     period: '2022 - 2025',
     title: 'National University of Singapore, Singapore',
     description1: '● Full Stack GIS Web Development',
-    description2: ' - React TS, Blueprintjs, Zustand, Openlayer, OpenAPI',
+    description2: ' - React TS, BlueprintJS, Zustand, Openlayer, OpenAPI',
     description3: ' - Django Rest, Geoserver, PostgreSQL, Redis',
     description4: '● DevOps with Docker, GitLab CI/CD. Ansible',
     description5: '● Microsoft Azure (Singapore GCC Cloud)',
@@ -124,7 +124,7 @@ export const ExperiencesData = [
     description7: '● Window, Ubuntu and RHEL Administrations',
     description8: '● QGIS Plugin Developments with PyQt5',
     description9:
-      '● Involved in TMSI research topics (GIS, Geomatics, Climate Change, Marine Science)'
+      '● TMSI researches (GIS, Geomatics, Climate Change, Marine Science)'
   },
   {
     role: 'Geomatics Engineer (Internship)',
