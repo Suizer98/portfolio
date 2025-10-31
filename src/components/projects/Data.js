@@ -1,5 +1,5 @@
 import arcgisjsai from './img/arcgisjsai.png'
-import matlab from './img/chur1610_python.png'
+import python from './img/chur1610_python.png'
 import deckglgis from './img/deckglgis.PNG'
 import dockerarcgis from './img/dockerarcgis15.png'
 import leaflet from './img/leaflet.PNG'
@@ -393,11 +393,11 @@ export const projectsData = [
   },
   {
     type: 'data',
-    img: matlab,
-    alt: 'Image of MATLAB Satellite Orbit Computation project',
-    title: 'MATLAB Satellite Orbit Computation',
+    img: python,
+    alt: 'Image of RINEX Satellite Orbit Computation project',
+    title: 'RINEX Satellite Orbit Computation',
     description:
-      'Orbit computation of satellites coordinates using MATLAB. Using RINEX data acquired from GPS receiver through satellites signals, created functions to extract numerical data from RINEX files, converted them into 3D Cartesian coordinates, then visualised their orbits in figure.',
+      'Orbit computation of satellites coordinates using Python & MATLAB. Using RINEX data acquired from GPS receiver through satellites signals, created functions to extract numerical data from RINEX files, converted them into 3D Cartesian coordinates, then visualised their orbits in figure.',
     git: 'https://github.com/Suizer98/rinexpos',
     demo: 'https://github.com/Suizer98/rinexpos',
     tech: [
