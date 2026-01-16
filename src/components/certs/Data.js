@@ -1,5 +1,11 @@
 export const CertificationsData = [
   {
+    name: 'ArcGIS Maps SDK for JavaScript Associate 2024',
+    distributor: 'Esri',
+    credential:
+      'https://www.credly.com/badges/c448b4c6-b424-4531-a60d-6ac01b209f5c/linked_in_profile'
+  },
+  {
     name: 'MySQL 8.0 Database Developer Oracle Certified Professional',
     distributor: 'Oracle',
     credential:
