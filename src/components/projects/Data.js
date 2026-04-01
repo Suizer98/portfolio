@@ -1,3 +1,4 @@
+import pydxf from './img/pydxf.png'
 import arcgisjsai from './img/arcgisjsai.png'
 import python from './img/chur1610_python.png'
 import deckglgis from './img/deckglgis.PNG'
@@ -10,6 +11,42 @@ import pythonanywhere from './img/pythonanywhere.PNG'
 // import weddinginv from './img/weddinginv.PNG'
 
 export const projectsData = [
+  {
+    type: 'data',
+    img: pydxf,
+    alt: 'Image of pydxf project',
+    title: 'pydxf',
+    description:
+      'Python utilities for working with DWG/DXF drawings—reading and converting CAD data for GIS and automation workflows.',
+    git: 'https://github.com/Suizer98/pydxf',
+    demo: 'https://github.com/Suizer98/pydxf',
+    tech: [
+      {
+        color: 'red',
+        tech: 'Python'
+      },
+      {
+        color: 'green',
+        tech: 'DXF'
+      },
+      {
+        color: 'blue',
+        tech: 'CAD'
+      },
+      {
+        color: 'purple',
+        tech: 'FastAPI'
+      },
+      {
+        color: 'yellow',
+        tech: 'DWG'
+      },
+      {
+        color: 'blue',
+        tech: 'Docker'
+      }
+    ]
+  },
   {
     type: 'web',
     img: arcgisjsai,
