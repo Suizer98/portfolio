@@ -15,7 +15,7 @@ export const projectsData = [
     type: 'data',
     img: pydxf,
     alt: 'Image of pydxf project',
-    title: 'pydxf',
+    title: 'Pydxf',
     description:
       'Python utilities for working with DWG/DXF drawings—reading and converting CAD data for GIS and automation workflows.',
     git: 'https://github.com/Suizer98/pydxf',
