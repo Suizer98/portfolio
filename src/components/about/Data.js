@@ -21,6 +21,7 @@ export const Data = [
     title: 'Frontend Technologies',
     items: [
       { icon: 'react' },
+      { icon: 'svelte' },
       { icon: 'nextjs' },
       { icon: 'tailwind' },
       { icon: 'vite' },
@@ -55,7 +56,8 @@ export const Data = [
       { icon: 'githubactions' },
       { icon: 'ansible' },
       { icon: 'nginx' },
-      { icon: 'gcp' }
+      { icon: 'gcp' },
+      { icon: 'kubernetes' }
     ]
   },
   {
