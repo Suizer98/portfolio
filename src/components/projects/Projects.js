@@ -6,7 +6,7 @@ import classes from './Projects.module.css'
 function Projects() {
   return (
     <section className={classes.projects}>
-      <h2 className={classes.header}>My personal projects</h2>
+      <h2 className={classes.header}>Personal projects</h2>
       <figure className={classes.workItems}>
         {projectsData.map((project, index) => {
           if (project.type === 'web' || project.type === 'system' || project.type === 'data') {
