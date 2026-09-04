@@ -13,12 +13,11 @@ function Home() {
             options={{
               strings: [
                 'Full Stack Software Engineer',
-                'Geomatics Engineering',
                 'Web technologies euthanist',
+                'Caught fire in learning about latest technologies',
+                'Geomatics Engineering',
                 'Ex Land Surveyor',
-                'Passionate about GIS and Geomatics',
                 'A cat lover',
-                'Caught fire in coding'
               ],
               autoStart: true,
               loop: true,
