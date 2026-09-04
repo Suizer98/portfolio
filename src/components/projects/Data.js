@@ -6,11 +6,64 @@ import dockerarcgis from './img/dockerarcgis15.png'
 import leaflet from './img/leaflet.PNG'
 import loveesri from './img/loveesri.PNG'
 import nextjsazure from './img/nextjsazure.PNG'
+import potato from './img/potato.png'
 import pythonanywhere from './img/pythonanywhere.PNG'
 
 // import weddinginv from './img/weddinginv.PNG'
 
 export const projectsData = [
+  {
+    type: 'web',
+    img: potato,
+    alt: 'Image of Potato Merch AI project',
+    title: 'Potato Merch AI',
+    description:
+      'Mock e-commerce platform selling Potato merchandise, backed by Twenty CRM for catalog and orders, Stripe Test Mode checkout, and LLM-powered Shop, Billing and Support agents served over a Go gRPC streaming chat service.',
+    git: 'https://github.com/Suizer98/potato-merch-ai',
+    demo: 'https://potato-merch-ai.onrender.com',
+    tech: [
+      {
+        color: 'blue',
+        tech: 'Next.js'
+      },
+      {
+        color: 'green',
+        tech: 'Go'
+      },
+      {
+        color: 'purple',
+        tech: 'gRPC'
+      },
+      {
+        color: 'yellow',
+        tech: 'Protobuf'
+      },
+      {
+        color: 'red',
+        tech: 'Stripe'
+      },
+      {
+        color: 'green',
+        tech: 'Twenty CRM'
+      },
+      {
+        color: 'blue',
+        tech: 'PostgreSQL'
+      },
+      {
+        color: 'purple',
+        tech: 'Redis'
+      },
+      {
+        color: 'yellow',
+        tech: 'Docker'
+      },
+      {
+        color: 'blue',
+        tech: 'Render'
+      }
+    ]
+  },
   {
     type: 'data',
     img: pydxf,
@@ -80,42 +133,6 @@ export const projectsData = [
       {
         color: 'blue',
         tech: 'CSS'
-      }
-    ]
-  },
-  {
-    type: 'system',
-    img: dockerarcgis,
-    alt: 'Image of Docker ArcGIS Enterprise AI project',
-    title: 'Docker ArcGIS Enterprise AI',
-    description:
-      'Extends docker-arcgis-enterprise with AI capabilities, enabling natural language queries to ArcGIS services through LangChain and MCP powered by FastAPI.',
-    git: 'https://github.com/Suizer98/docker-arcgis-enterprise-ai',
-    demo: 'https://github.com/Suizer98/docker-arcgis-enterprise-ai',
-    tech: [
-      {
-        color: 'blue',
-        tech: 'Docker'
-      },
-      {
-        color: 'green',
-        tech: 'ArcGIS Enterprise'
-      },
-      {
-        color: 'purple',
-        tech: 'FastAPI'
-      },
-      {
-        color: 'yellow',
-        tech: 'LangChain'
-      },
-      {
-        color: 'red',
-        tech: 'Python'
-      },
-      {
-        color: 'blue',
-        tech: 'OpenAI API'
       }
     ]
   },
@@ -457,6 +474,42 @@ export const projectsData = [
       {
         color: 'red',
         tech: 'Python'
+      }
+    ]
+  },
+  {
+    type: 'system',
+    img: dockerarcgis,
+    alt: 'Image of Docker ArcGIS Enterprise AI project',
+    title: 'Docker ArcGIS Enterprise AI',
+    description:
+      'Extends docker-arcgis-enterprise with AI capabilities, enabling natural language queries to ArcGIS services through LangChain and MCP powered by FastAPI.',
+    git: 'https://github.com/Suizer98/docker-arcgis-enterprise-ai',
+    demo: 'https://github.com/Suizer98/docker-arcgis-enterprise-ai',
+    tech: [
+      {
+        color: 'blue',
+        tech: 'Docker'
+      },
+      {
+        color: 'green',
+        tech: 'ArcGIS Enterprise'
+      },
+      {
+        color: 'purple',
+        tech: 'FastAPI'
+      },
+      {
+        color: 'yellow',
+        tech: 'LangChain'
+      },
+      {
+        color: 'red',
+        tech: 'Python'
+      },
+      {
+        color: 'blue',
+        tech: 'OpenAI API'
       }
     ]
   }
