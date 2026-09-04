@@ -3,7 +3,7 @@ export const CertificationsData = [
     name: 'Microsoft Certified: Azure AI Cloud Developer Associate',
     distributor: 'Microsoft',
     credential:
-      'https://learn.microsoft.com/api/credentials/share/en-us/TeySuiZer-1895/B343CFF3134D3D56?sharingId=981D329E1C3AFFDB'
+      'https://learn.microsoft.com/api/credentials/share/en-us/suizer/B343CFF3134D3D56?sharingId=981D329E1C3AFFDB'
   },
   {
     name: 'ArcGIS API for Python Associate 2026',
@@ -70,7 +70,7 @@ export const CertificationsData = [
     name: 'Microsoft Certified: Azure AI Fundamentals',
     distributor: 'Microsoft',
     credential:
-      'https://learn.microsoft.com/api/credentials/share/en-us/TeySuiZer-1895/4FA11589692F0090?sharingId=981D329E1C3AFFDB'
+      'https://learn.microsoft.com/api/credentials/share/en-us/suizer/4FA11589692F0090?sharingId=981D329E1C3AFFDB'
   },
   {
     name: 'Artificial Intelligence Competency Course',
