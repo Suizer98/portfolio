@@ -1,5 +1,17 @@
 export const CertificationsData = [
   {
+    name: 'Microsoft Certified: Azure AI Cloud Developer Associate',
+    distributor: 'Microsoft',
+    credential:
+      'https://learn.microsoft.com/api/credentials/share/en-us/TeySuiZer-1895/B343CFF3134D3D56?sharingId=981D329E1C3AFFDB'
+  },
+  {
+    name: 'ArcGIS API for Python Associate 2026',
+    distributor: 'Esri',
+    credential:
+      'https://www.credly.com/badges/760b5652-ee78-4c87-bd1a-286a55a6b9dc/linked_in_profile'
+  },
+  {
     name: 'ArcGIS Maps SDK for JavaScript Associate 2024',
     distributor: 'Esri',
     credential:
