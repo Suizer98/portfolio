@@ -23,8 +23,10 @@ export const Data = [
       { icon: 'react' },
       { icon: 'svelte' },
       { icon: 'nextjs' },
+      { icon: 'redux' },
       { icon: 'tailwind' },
       { icon: 'vite' },
+      { icon: 'bun' },
       { icon: 'npm' },
       { icon: 'yarn' },
       { icon: 'qt' },
@@ -35,8 +37,8 @@ export const Data = [
     title: 'Backend Technologies',
     items: [
       { icon: 'django' },
-      { icon: 'flask' },
       { icon: 'fastapi' },
+      { icon: 'flask' },
       { icon: 'redis' },
       { icon: 'prisma' },
       { icon: 'selenium' },
@@ -48,9 +50,10 @@ export const Data = [
     items: [{ icon: 'vitest' }, { icon: 'jest' }]
   },
   {
-    title: 'DevOps Technologies',
+    title: 'DevOps and Cloud Technologies',
     items: [
       { icon: 'docker' },
+      { icon: 'aws' },
       { icon: 'azure' },
       { icon: 'gitlab' },
       { icon: 'githubactions' },
@@ -95,6 +98,7 @@ export const Data = [
       { icon: 'vercel' },
       { icon: 'heroku' },
       { icon: 'anaconda' },
+      { icon: 'grafana' },
       { icon: 'cmake' },
       { icon: 'postman' },
       { icon: 'md' },
