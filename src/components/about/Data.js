@@ -111,34 +111,30 @@ export const ExperiencesData = [
   {
     role: 'Software Engineer',
     period: '2025 - Present',
-    title: 'Esri Singapore, Singapore'
+    title: 'Esri Singapore, Singapore',
+    description1: '● ESRI certified software engineer',
+    description2: '● Most Valuable Player (MVP) of Esri Singapore 2026'
   },
   {
     role: 'Software Engineer',
     period: '2022 - 2025',
     title: 'National University of Singapore, Singapore',
-    description1: '● Full Stack GIS Web Development',
-    description2: ' - React TS, BlueprintJS, Zustand, Openlayer, OpenAPI',
-    description3: ' - Django Rest, Geoserver, PostgreSQL, Redis',
-    description4: '● DevOps with Docker, GitLab CI/CD. Ansible',
-    description5: '● Microsoft Azure (Singapore GCC Cloud)',
-    description6: '● Vitest, Playwright, Django test framework',
-    description7: '● Window, Ubuntu and RHEL Administrations',
-    description8: '● QGIS Plugin Developments with PyQt5',
-    description9:
-      '● TMSI researches (GIS, Geomatics, Climate Change, Marine Science)'
+    description1: '● React TS, BlueprintJS, Zustand, Openlayer, OpenAPI',
+    description2: '● Django Rest, Geoserver, PostgreSQL, PostGIS',
+    description3: '● Docker, GitLab CI/CD, Ansible',
+    description4: '● Microsoft Azure (Singapore GCC+ Cloud)',
+    description5: '● Vitest, Playwright, Django test framework',
+    description6: '● Window, WSL2 Ubuntu and RHEL Administrations',
+    description7: '● QGIS Plugin Developments with PyQt5',
+    description8: '● TMSI researches (GIS, Geomatics, Climate Change, Marine Science)'
   },
   {
-    role: 'Geomatics Engineer (Internship)',
+    role: 'Geomatics Engineer',
     period: '2021 - 2021',
-    title: 'JK Land Consultant Sdn Bhd, Johor Bahru, Malaysia',
-    description1: '● Field works',
+    title: 'JK Land Consulting Firm, Johor Bahru, Malaysia',
+    description1:
+      '● Engaged in field works such as topographic, demarcation, land title, traverse engineering, GPS RTK network, multi-beam hydrographic and underground utility surveys.',
     description2:
-      ' - Carried out topographic, demarcation and land title surveys, engineering, hydrographic and underground utility surveys.',
-    description3: '● Drafter',
-    description4:
-      ' - Carried out post-processing, digitizing, and analysis of UAV, hydrography, stockpiles, 3D TLS point cloud data.',
-    description5:
-      ' - Produced engineering survey plans such as topographic detail survey, tele tower radio range, underground cables using AutoCAD.'
+      '● Carried out post-processing, digitizing and analysis of UAV, hydrography, stockpiles, 3D TLS point cloud data. Produced UUDM & engineering plans using AutoCAD and CDS.'
   }
 ]
