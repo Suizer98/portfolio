@@ -72,7 +72,7 @@ export const projectsData = [
     description:
       'Python utilities for working with DWG/DXF drawings—reading and converting CAD data for GIS and automation workflows.',
     git: 'https://github.com/Suizer98/pydxf',
-    demo: 'https://github.com/Suizer98/pydxf',
+    demo: 'https://pydxf.onrender.com/',
     tech: [
       {
         color: 'red',
