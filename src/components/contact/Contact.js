@@ -44,9 +44,9 @@ function Contact() {
 
   return (
     <section className={classes.contact}>
-      <h2>Ping me here!</h2>
+      <h2>Contact</h2>
 
-      {!hidden && (
+      {/* {!hidden && (
         <form ref={form} className={classes.form} onSubmit={sendEmail} onChange={checkForm}>
           <label className={classes.label} htmlFor="name">
             Name
@@ -95,7 +95,7 @@ function Contact() {
         <div className={classes.field}>
           <p className={classes.succ}>Message successfully sent!</p>
         </div>
-      )}
+      )} */}
 
       <ul className={classes.socials}>
         <li>
