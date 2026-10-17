@@ -1,5 +1,11 @@
 export const CertificationsData = [
   {
+    name: 'AWS Certified Solutions Architect – Associate',
+    distributor: 'Amazon Web Services (AWS)',
+    credential:
+      'https://www.credly.com/badges/a2bbc9c1-7d4a-44f2-a994-87c6680d6de3/linked_in_profile'
+  },
+  {
     name: 'Microsoft Certified: Azure AI Cloud Developer Associate',
     distributor: 'Microsoft',
     credential:
