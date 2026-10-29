@@ -8,10 +8,18 @@ function About() {
     <section className={classes.about}>
       <h2>About me</h2>
       <p className={classes.text}>
-        My cross-disciplinary expertises enables me to excel in both domains, 
-        from collecting real world GIS data, processing them to developing innovative software 
-        solutions tailored to meet spatial data needs. My knowledges and skills allow me to bridge 
-        the gap between geomatics engineering and gis software development.
+        I am a software engineer specialising in full-stack web development, with a strong
+        foundation in GIS and geomatics engineering. My passionate curiosity drives me to develop
+        innovative, scalable, and user-centric software solutions that integrate modern web
+        technologies to address complex real-world challenges.
+      </p>
+
+      <p className={classes.text}>
+        Through my experience at Esri, a global leader in GIS technology, I have developed expertise
+        in building and implementing software solutions that address complex geospatial challenges.
+        My cross-disciplinary background in geomatics engineering and full-stack software
+        development lets me bridge the gap between spatial data and software, transforming
+        geospatial data into actionable insights.
       </p>
 
       {ExperiencesData.map((el, index) => (
