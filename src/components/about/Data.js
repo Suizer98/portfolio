@@ -117,18 +117,18 @@ export const ExperiencesData = [
     period: '2025 - Present',
     title: 'Esri Singapore, Singapore',
     description1: '● ESRI certified software engineer',
-    description2: '● Most Valuable Player (MVP) of Esri Singapore 2026'
+    description2: '● MVP of Esri Singapore 2026'
   },
   {
     role: 'Software Engineer',
     period: '2022 - 2025',
     title: 'National University of Singapore, Singapore',
-    description1: '● React TS, BlueprintJS, Zustand, Openlayer, OpenAPI',
-    description2: '● Django Rest, Geoserver, PostgreSQL, PostGIS',
+    description1: '● React TS, BlueprintJS, Zustand, OpenLayers',
+    description2: '● Django Rest, OpenAPI, Geoserver, PostgreSQL, PostGIS',
     description3: '● Docker, GitLab CI/CD, Ansible',
-    description4: '● Microsoft Azure (Singapore GCC+ Cloud)',
-    description5: '● Vitest, Playwright, Django test framework',
-    description6: '● Window, WSL2 Ubuntu and RHEL Administrations',
+    description4: '● Microsoft Azure in Singapore GCC Cloud',
+    description5: '● Playwright, Vitest, Django test framework, Pytest',
+    description6: '● Windows, WSL2 Ubuntu and RHEL Administrations',
     description7: '● QGIS Plugin Developments with PyQt5',
     description8: '● TMSI researches (GIS, Geomatics, Climate Change, Marine Science)'
   },
